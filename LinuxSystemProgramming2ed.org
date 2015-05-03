@@ -1,0 +1,14 @@
+* Chaper 1 Introduction and Essential Concept
+** APIs and ABIs
+API ensures source compatibility
+ABI ensures binary compatibility
+*** ABI
+- calling conventions
+- byte ordering
+- register use
+- system call invocation
+- linking
+- library behavior
+- binary object format
+ABI is defined and implemented by the kernel and the toolchain
+
