@@ -14,6 +14,10 @@ http://www.infoq.com/cn/articles/analyse-mesos-part-02
 https://chimeracoder.github.io/docker-without-docker/#1
 **** Project Tungsten：让Spark将硬件性能压榨到极限	  :spark:performance:
 http://www.csdn.net/article/2015-04-30/2824591
+**** OpenWrt路由器开发						    :openwrt:
+http://segmentfault.com/a/1190000002721224
+**** 从外网 SSH 进局域网，反向代理+正向代理解决方案		  :ssh:proxy:
+http://segmentfault.com/a/1190000002718360
 
 * Blog
 

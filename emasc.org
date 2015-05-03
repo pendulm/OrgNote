@@ -1,0 +1,73 @@
+* Emacs
+** Dired
+*** commands
+- C-x C-d :: list directory
+- C-x d :: invoke dired
+- C-x 4 d :: dired in other window
+- q :: quit dired
+- n :: next line
+- p :: previous line
+- DEL :: up and unflag
+- j :: jump to a file use minibuffer
+- d :: mark for delete
+- u :: undo mark
+- x :: delete marked files
+- # :: flag all auto-save files
+- ~ :: flag all backup files
+- f :: visit file
+- o :: visit file in another window
+- C-o :: visit file in another window but unfocus
+- v :: visit file in view mode
+- ^ :: visit parent dir
+- m :: mark file
+- ** :: mark all executable files
+- *@ :: mark all symbolic links
+- */ :: mark all directories, except . and ..
+- *s :: mark all files, except . and ..
+- U :: remove all marks
+- * C-n :: next marked file
+- * C-p :: previous marked file
+- t :: toggle all * marks
+- *c :: replace markchar
+- *? :: remove all marks witch markchar
+- *% :: mark files whose names match regex
+- %g :: mark files whose contents contain regex
+- C-/ :: undo chages in Dired buffer
+- C :: copy marked files
+- D :: Delete marked files
+- R :: move marked files
+- H :: make hard links to marked files
+- S :: make symbolic links to marked files
+- M :: change mode of marked files
+- G :: change the group of marked files
+- O :: change the ownership of marked files
+- T :: touch the marked files
+- Z :: compress the marked files
+- A :: grep regexp in marked files
+- Q :: perform query-replace-regexp on marked files
+- ! :: execute shell commands(a lot of usages, read the manual)
+- %u :: rename to upper-case name
+- %l :: rename to lower-case name
+- %[RCHS] :: rename, copy, hard link, soft link use regexp
+- = :: diff file
+- i :: insert contents of subdirectory
+- C-u k :: on subdirectory header line to remove the subdirectory
+- C-M-n :: go to next subdirectory header line
+- C-M-p :: go to previous subdirectory header line
+- C-M-u :: go to parent directory header line
+- C-M-d :: go down in the directory tree
+- < :: move to the previous directory
+- > :: move to the next directory
+- $ :: hide or show subdirectory
+- M-$ :: hide all subdirectories in this Dired buffer`
+- g :: update the entire content
+- l :: update the marked files
+- k :: delete marked file lines
+- s :: toggle between alphabetical and time order
+- C-us :: refresh buffer using ls switches
+- C-xC-q :: enter Wdired mode
+- C-cC-c :: exit Wdired mode
+- + :: mkdir
+*** variables
+- dired-recursive-deletes :: control delete non-empty dirs
+- dired-isearch-filenames :: limit C-s only search file names
