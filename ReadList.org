@@ -24,6 +24,9 @@ https://blog.mozilla.org/security/2015/04/30/deprecating-non-secure-http/
 http://www.w3.org/TR/upgrade-insecure-requests/
 **** VXLAN Overview					      :vxlan:network:
 http://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/white-paper-c11-729383.html
+**** Qemu and the Kernel
+http://www.linux-magazine.com/Online/Features/Qemu-and-the-Kernel
+
 * Blog
 
 ** Individuals
