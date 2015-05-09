@@ -18,7 +18,12 @@ http://www.csdn.net/article/2015-04-30/2824591
 http://segmentfault.com/a/1190000002721224
 **** 从外网 SSH 进局域网，反向代理+正向代理解决方案		  :ssh:proxy:
 http://segmentfault.com/a/1190000002718360
-
+**** Deprecating Non-Secure HTTP				  :ssl:https:
+https://blog.mozilla.org/security/2015/04/30/deprecating-non-secure-http/
+**** Upgrade Insecure Requests					   :ssl:hsts:
+http://www.w3.org/TR/upgrade-insecure-requests/
+**** VXLAN Overview					      :vxlan:network:
+http://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/white-paper-c11-729383.html
 * Blog
 
 ** Individuals
@@ -32,3 +37,19 @@ http://huoding.com/
 https://blog.cloudflare.com/
 
 ** Organizations
+* Kernel
+** live patch
+- A rough patch for live patching :: http://lwn.net/Articles/634649/
+** network
+
+*** userspace network stacks
+- Running the kernel in library mode :: http://lwn.net/Articles/639333/
+- Library Operating System for Linux  :: http://www.slideshare.net/hajimetazaki/library-operating-system-for-linux-netdev01
+* Virtualization
+** network
+*** Network virtualization with VXLAN
+http://vincent.bernat.im/en/blog/2012-multicast-vxlan.html
+*** Flockport labs - LXC and VXLAN
+http://www.flockport.com/flockport-labs-lxc-and-vxlan/
+*** Enhanced VXLAN: Who Needs Multicast?
+http://adamraffe.com/2013/06/24/enhanced-vxlan-who-needs-multicast/
