@@ -18,6 +18,9 @@ http://www.csdn.net/article/2015-04-30/2824591
 http://segmentfault.com/a/1190000002721224
 **** 从外网 SSH 进局域网，反向代理+正向代理解决方案		  :ssh:proxy:
 http://segmentfault.com/a/1190000002718360
+**** Qemu and the Kernel
+http://www.linux-magazine.com/Online/Features/Qemu-and-the-Kernel
+
 
 * Blog
 
