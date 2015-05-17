@@ -26,6 +26,27 @@ http://www.w3.org/TR/upgrade-insecure-requests/
 http://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/white-paper-c11-729383.html
 **** Qemu and the Kernel
 http://www.linux-magazine.com/Online/Features/Qemu-and-the-Kernel
+**** A Quick Introduction to LXD				    :lxc:lxd:
+http://blog.scottlowe.org/2015/05/06/quick-intro-lxd/
+**** Optimize Python with Closures			:python:optimization:
+http://tech.magnetic.com/2015/05/optimize-python-with-closures.html
+**** 关于Ceph现状与未来的一些思考				       :ceph:
+https://www.ustack.com/blog/sikao/
+**** DockOne技术分享（二）：集群规模下日志处理和网络方案	     :docker:
+http://dockone.io/article/355
+**** Static Linking Considered Harmful				       :link:
+http://www.akkadia.org/drepper/no_static_linking.html
+**** Docker日志自动化: ElasticSearch, Logstash, Kibana, 以及Logspout 
+http://dockone.io/article/373
+**** Nmap Examples For Network Admins				       :namp:
+http://teknixx.com/nmap-examples-for-network-admins/
+**** How debugger works						 :gdb:ptrace:
+http://www.alexonlinux.com/how-debugger-works
+****  Transport Layer Security (TLS) Jump Start				:TLS:
+https://www.ietf.org/id/draft-vkrasnov-tls-jumpstart-00.txt
+**** Python coroutines with async and await		       :python:async:
+http://lwn.net/Articles/643786/
+
 
 * Blog
 
@@ -38,6 +59,8 @@ http://huoding.com/
 ** Companys
 *** cloudflare blog
 https://blog.cloudflare.com/
+*** unitedstack
+https://www.ustack.com/blog/
 
 ** Organizations
 * Kernel
