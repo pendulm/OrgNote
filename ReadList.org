@@ -36,7 +36,7 @@ https://www.ustack.com/blog/sikao/
 http://dockone.io/article/355
 **** Static Linking Considered Harmful				       :link:
 http://www.akkadia.org/drepper/no_static_linking.html
-**** Docker日志自动化: ElasticSearch, Logstash, Kibana, 以及Logspout 
+**** Docker日志自动化: ElasticSearch, Logstash, Kibana, 以及Logspout :docker:
 http://dockone.io/article/373
 **** Nmap Examples For Network Admins				       :namp:
 http://teknixx.com/nmap-examples-for-network-admins/
@@ -46,7 +46,14 @@ http://www.alexonlinux.com/how-debugger-works
 https://www.ietf.org/id/draft-vkrasnov-tls-jumpstart-00.txt
 **** Python coroutines with async and await		       :python:async:
 http://lwn.net/Articles/643786/
-
+**** Optimizing Python - a Case Study			:python:optimization:
+https://www.airpair.com/python/posts/optimizing-python-code
+**** DOCKER AND THE THREE WAYS OF DEVOPS			     :devops:
+http://blog.docker.com/2015/05/docker-three-ways-ops/
+**** Dynamic Linking						       :link:
+http://harmful.cat-v.org/software/dynamic-linking/
+**** SSD: how to optimize your Solid State Drive			:ssd:
+https://sites.google.com/site/easylinuxtipsproject/ssd
 
 * Blog
 
@@ -79,3 +86,7 @@ http://vincent.bernat.im/en/blog/2012-multicast-vxlan.html
 http://www.flockport.com/flockport-labs-lxc-and-vxlan/
 *** Enhanced VXLAN: Who Needs Multicast?
 http://adamraffe.com/2013/06/24/enhanced-vxlan-who-needs-multicast/
+
+* References
+** lua-users.org							:lua:
+http://lua-users.org/
