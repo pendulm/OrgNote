@@ -58,6 +58,14 @@ https://sites.google.com/site/easylinuxtipsproject/ssd
 *** Jun
 **** DockOne技术分享（五）：Docker网络详解及Libnetwrok前瞻 	     :docker:
 http://dockone.io/article/402
+**** I/O Schedulers						      :linux:
+http://www.makelinux.net/books/lkd2/ch13lev1sec5
+**** Linux Storage Stack Diagramm		       :linux:kernel:stoarge:
+https://www.thomas-krenn.com/de/wiki/Linux_I/O_Stack_Diagramm
+**** Linux I/O Scheduler					   :linux:io:
+https://www.thomas-krenn.com/de/wiki/Linux_I/O_Scheduler
+**** A Toolkit To Measure Basic System Performance And OS Jitter :performance:
+http://highscalability.com/blog/2015/5/27/a-toolkit-to-measure-basic-system-performance-and-os-jitter.html
 
 * Blog
 
