@@ -46,6 +46,28 @@ http://www.alexonlinux.com/how-debugger-works
 https://www.ietf.org/id/draft-vkrasnov-tls-jumpstart-00.txt
 **** Python coroutines with async and await		       :python:async:
 http://lwn.net/Articles/643786/
+**** PEP 492 vs. PEP 3152, new round			       :python:async:
+https://lwn.net/Articles/644128/
+**** Moving to ES6 from CoffeeScript					:es6:
+https://gist.github.com/danielgtaylor/0b60c2ed1f069f118562
+**** Learning C with gdb						:gdb:
+https://www.recurse.com/blog/5-learning-c-with-gdb
+**** Actual Zero-Downtime with HAProxy
+https://medium.com/@Drew_Stokes/actual-zero-downtime-with-haproxy-18318578fde6
+**** Unix filesystems: How mv can be dangerous
+http://jstimpfle.de/fun/mv.html
+**** Unix Shells: Bash, Fish, Ksh, Tcsh, Zsh			      :shell:
+http://hyperpolyglot.org/unix-shells
+**** Tuning Docker with the newest security enhancements     :docker:selinux:
+http://opensource.com/business/15/3/docker-security-tuning
+**** Multipath routing on a Raspberry Pi 2咸
+http://www.whizzy.org/2015/05/multipathrouting-rasppi2/
+**** SSH 远程连接服务慢的解决方案					:ssh:
+https://linux.cn/article-5497-weibo.html
+**** 利用google authenticator构建平台的otp动态口令
+http://xiaorui.cc/2014/11/09/%E5%88%A9%E7%94%A8google-authenticator%E6%9E%84%E5%BB%BA%E5%B9%B3%E5%8F%B0%E7%9A%84otp%E5%8A%A8%E6%80%81%E5%8F%A3%E4%BB%A4/
+**** Socket Sharding in NGINX Release 1.9.1			      :nginx:
+http://nginx.com/blog/socket-sharding-nginx-release-1-9-1/
 **** Optimizing Python - a Case Study			:python:optimization:
 https://www.airpair.com/python/posts/optimizing-python-code
 **** DOCKER AND THE THREE WAYS OF DEVOPS			     :devops:
@@ -98,6 +120,16 @@ http://vincent.bernat.im/en/blog/2012-multicast-vxlan.html
 http://www.flockport.com/flockport-labs-lxc-and-vxlan/
 *** Enhanced VXLAN: Who Needs Multicast?
 http://adamraffe.com/2013/06/24/enhanced-vxlan-who-needs-multicast/
+* Security
+** ssl
+*** The Logjam Attack
+https://weakdh.org/
+**** Logjam: the latest TLS vulnerability explained
+https://blog.cloudflare.com/logjam-the-latest-tls-vulnerability-explained/
+
+
+* Command
+rsync -avzhP <[[user@]]host1:]directory1> <[[user@]]host2:]directory2>
 
 * References
 ** lua-users.org							:lua:
