@@ -12,3 +12,7 @@ ABI ensures binary compatibility
 - binary object format
 ABI is defined and implemented by the kernel and the toolchain
 
+*** Filesystems and namespaces
+sector 512B(smallest addressable unit on a block device)
+block 512B ~ 4K(smallest addressable unit of a filesystem)
+page (smallest addressable unit of a MMU)
