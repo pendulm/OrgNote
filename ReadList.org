@@ -36,7 +36,7 @@ https://www.ustack.com/blog/sikao/
 http://dockone.io/article/355
 **** Static Linking Considered Harmful				       :link:
 http://www.akkadia.org/drepper/no_static_linking.html
-**** Docker日志自动化: ElasticSearch, Logstash, Kibana, 以及Logspout 
+**** Docker日志自动化: ElasticSearch, Logstash, Kibana, 以及Logspout :docker:
 http://dockone.io/article/373
 **** Nmap Examples For Network Admins				       :namp:
 http://teknixx.com/nmap-examples-for-network-admins/
@@ -68,6 +68,18 @@ https://linux.cn/article-5497-weibo.html
 http://xiaorui.cc/2014/11/09/%E5%88%A9%E7%94%A8google-authenticator%E6%9E%84%E5%BB%BA%E5%B9%B3%E5%8F%B0%E7%9A%84otp%E5%8A%A8%E6%80%81%E5%8F%A3%E4%BB%A4/
 **** Socket Sharding in NGINX Release 1.9.1			      :nginx:
 http://nginx.com/blog/socket-sharding-nginx-release-1-9-1/
+**** Optimizing Python - a Case Study			:python:optimization:
+https://www.airpair.com/python/posts/optimizing-python-code
+**** DOCKER AND THE THREE WAYS OF DEVOPS			     :devops:
+http://blog.docker.com/2015/05/docker-three-ways-ops/
+**** Dynamic Linking						       :link:
+http://harmful.cat-v.org/software/dynamic-linking/
+**** SSD: how to optimize your Solid State Drive			:ssd:
+https://sites.google.com/site/easylinuxtipsproject/ssd
+
+*** Jun
+**** DockOne技术分享（五）：Docker网络详解及Libnetwrok前瞻 	     :docker:
+http://dockone.io/article/402
 
 * Blog
 
@@ -110,3 +122,7 @@ https://blog.cloudflare.com/logjam-the-latest-tls-vulnerability-explained/
 
 * Command
 rsync -avzhP <[[user@]]host1:]directory1> <[[user@]]host2:]directory2>
+
+* References
+** lua-users.org							:lua:
+http://lua-users.org/
