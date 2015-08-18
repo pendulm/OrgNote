@@ -88,7 +88,23 @@ https://www.thomas-krenn.com/de/wiki/Linux_I/O_Stack_Diagramm
 https://www.thomas-krenn.com/de/wiki/Linux_I/O_Scheduler
 **** A Toolkit To Measure Basic System Performance And OS Jitter :performance:
 http://highscalability.com/blog/2015/5/27/a-toolkit-to-measure-basic-system-performance-and-os-jitter.html
-
+**** How to Backup Linux? 15 rsync Command Examples		      :rsync:
+     http://www.thegeekstuff.com/2010/09/rsync-command-examples/
+**** True Zero Downtime HAProxy Reloads				    :haproxy:
+http://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html
+*** Aug
+**** How PAM works						  :pam:linux:
+http://www.tuxradar.com/content/how-pam-works
+**** How TCP backlog works in Linux				:tcp:backlog:
+http://veithen.github.io/2014/01/01/how-tcp-backlog-works-in-linux.html
+**** Simplify Your Life With an SSH Config File				:ssh:
+http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/
+**** SSH Kung Fu							:ssh:
+http://blog.tjll.net/ssh-kung-fu/
+**** Google DNS劫持背后的技术分析					:bgp:
+http://drops.wooyun.org/papers/1207
+**** BlackHat议题分析：浅析BGP劫持利用					:bgp:
+http://www.freebuf.com/articles/network/75305.html
 * Blog
 
 ** Individuals
@@ -96,6 +112,8 @@ http://highscalability.com/blog/2015/5/27/a-toolkit-to-measure-basic-system-perf
 http://blog.2baxb.me/
 *** 火丁笔记
 http://huoding.com/
+*** nixCraft
+http://www.cyberciti.biz/
 
 ** Companys
 *** cloudflare blog
