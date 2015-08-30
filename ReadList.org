@@ -105,6 +105,12 @@ http://blog.tjll.net/ssh-kung-fu/
 http://drops.wooyun.org/papers/1207
 **** BlackHat议题分析：浅析BGP劫持利用					:bgp:
 http://www.freebuf.com/articles/network/75305.html
+**** Dynamic Reconfiguration with NGINX Plus			      :nginx:
+https://www.nginx.com/blog/dynamic-reconfiguration-with-nginx-plus/
+**** Mitigating DDoS Attacks with NGINX and NGINX Plus		      :nginx:
+https://www.nginx.com/blog/mitigating-ddos-attacks-with-nginx-and-nginx-plus/
+**** How widely used are security based HTTP response headers?	       :http:
+https://scotthelme.co.uk/how-widely-used-are-security-based-http-response-headers/
 * Blog
 
 ** Individuals
