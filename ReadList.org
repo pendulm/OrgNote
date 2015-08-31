@@ -94,6 +94,29 @@ http://www.playwithlua.com/?p=66
 http://www.umbrant.com/blog/2015/mesos_omega_borg_survey.html
 **** Bash associative array examples				      :shell:
 http://www.artificialworlds.net/blog/2012/10/17/bash-associative-array-examples/
+**** How to Backup Linux? 15 rsync Command Examples		      :rsync:
+     http://www.thegeekstuff.com/2010/09/rsync-command-examples/
+**** True Zero Downtime HAProxy Reloads				    :haproxy:
+http://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html
+*** Aug
+**** How PAM works						  :pam:linux:
+http://www.tuxradar.com/content/how-pam-works
+**** How TCP backlog works in Linux				:tcp:backlog:
+http://veithen.github.io/2014/01/01/how-tcp-backlog-works-in-linux.html
+**** Simplify Your Life With an SSH Config File				:ssh:
+http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/
+**** SSH Kung Fu							:ssh:
+http://blog.tjll.net/ssh-kung-fu/
+**** Google DNS劫持背后的技术分析					:bgp:
+http://drops.wooyun.org/papers/1207
+**** BlackHat议题分析：浅析BGP劫持利用					:bgp:
+http://www.freebuf.com/articles/network/75305.html
+**** Dynamic Reconfiguration with NGINX Plus			      :nginx:
+https://www.nginx.com/blog/dynamic-reconfiguration-with-nginx-plus/
+**** Mitigating DDoS Attacks with NGINX and NGINX Plus		      :nginx:
+https://www.nginx.com/blog/mitigating-ddos-attacks-with-nginx-and-nginx-plus/
+**** How widely used are security based HTTP response headers?	       :http:
+https://scotthelme.co.uk/how-widely-used-are-security-based-http-response-headers/
 * Blog
 
 ** Individuals
@@ -101,6 +124,8 @@ http://www.artificialworlds.net/blog/2012/10/17/bash-associative-array-examples/
 http://blog.2baxb.me/
 *** 火丁笔记
 http://huoding.com/
+*** nixCraft
+http://www.cyberciti.biz/
 
 ** Companys
 *** cloudflare blog
