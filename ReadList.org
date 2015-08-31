@@ -88,7 +88,12 @@ https://www.thomas-krenn.com/de/wiki/Linux_I/O_Stack_Diagramm
 https://www.thomas-krenn.com/de/wiki/Linux_I/O_Scheduler
 **** A Toolkit To Measure Basic System Performance And OS Jitter :performance:
 http://highscalability.com/blog/2015/5/27/a-toolkit-to-measure-basic-system-performance-and-os-jitter.html
-
+**** Making a toy programming language in Lua, part 1			:lua:
+http://www.playwithlua.com/?p=66
+**** mesos, omega, borg: a survey				 :borg:mesos:
+http://www.umbrant.com/blog/2015/mesos_omega_borg_survey.html
+**** Bash associative array examples				      :shell:
+http://www.artificialworlds.net/blog/2012/10/17/bash-associative-array-examples/
 * Blog
 
 ** Individuals
