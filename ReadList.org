@@ -117,6 +117,13 @@ https://www.nginx.com/blog/dynamic-reconfiguration-with-nginx-plus/
 https://www.nginx.com/blog/mitigating-ddos-attacks-with-nginx-and-nginx-plus/
 **** How widely used are security based HTTP response headers?	       :http:
 https://scotthelme.co.uk/how-widely-used-are-security-based-http-response-headers/
+*** Sep
+**** How to receive a million packets per second	 :network:cloudflare:
+https://blog.cloudflare.com/how-to-receive-a-million-packets/
+**** How to achieve low latency with 10Gbps Ethernet
+https://blog.cloudflare.com/how-to-achieve-low-latency/
+**** Kernel bypass
+https://blog.cloudflare.com/kernel-bypass/
 * Blog
 
 ** Individuals
