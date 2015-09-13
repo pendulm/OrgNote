@@ -124,6 +124,12 @@ https://blog.cloudflare.com/how-to-receive-a-million-packets/
 https://blog.cloudflare.com/how-to-achieve-low-latency/
 **** Kernel bypass
 https://blog.cloudflare.com/kernel-bypass/
+**** What I Wish I Knew When Learning Haskell			    :haskell:
+http://dev.stephendiehl.com/hask/
+**** Implementing a JIT Compiled Language with Haskell and LLVM :haskell:llvm:
+     http://www.stephendiehl.com/llvm/
+**** What's New in CPUs Since the 80s and How Does It Affect Programmers? :cpu:
+http://danluu.com/new-cpu-features/
 * Blog
 
 ** Individuals
