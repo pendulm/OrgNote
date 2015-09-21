@@ -130,6 +130,14 @@ http://dev.stephendiehl.com/hask/
      http://www.stephendiehl.com/llvm/
 **** What's New in CPUs Since the 80s and How Does It Affect Programmers? :cpu:
 http://danluu.com/new-cpu-features/
+**** Dynamic TLS certificates with OpenResty and ssl_certificate_by_lua :nginx:
+https://litespeed.io/dynamic-tls-certificates-with-openresty-and-ssl_certificate_by_lua/
+****  makeself - Make self-extractable archives on Unix		      :shell:
+http://stephanepeter.com/makeself/
+**** C++ Core Guidelines						  :c++:
+https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
+**** Erlang compilation						     :erlang:
+
 * Blog
 
 ** Individuals
