@@ -137,6 +137,23 @@ http://stephanepeter.com/makeself/
 **** C++ Core Guidelines						  :c++:
 https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
 **** Erlang compilation						     :erlang:
+**** It’s Time for Low Latency					    :latency:
+https://www.evernote.com/shard/s4/sh/da079cd2-c272-4b13-9a10-c70a213873b4/00985892a73d80a0
+**** Virtio: An I/O virtualization framework for Linux		    :virtual:
+http://www.ibm.com/developerworks/library/l-virtio/
+*** Oct
+**** Using imagemagick, awk and kmeans to find dominant colors in images :color:
+http://javier.io/blog/en/2015/09/30/using-imagemagick-and-kmeans-to-find-dominant-colors-in-images.html
+**** Pushing the Limits of Kernel Networking			    :network:
+http://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/
+**** A PATTERN FOR OPTIMIZING GO					 :go:
+http://blog.signalfx.com/a-pattern-for-optimizing-go
+**** Do not let your CDN betray you: Use Subresource Integrity		:web:
+https://hacks.mozilla.org/2015/09/subresource-integrity-in-firefox-43/
+**** JavaScript goes to Asynchronous city			 :javascript:
+http://blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx
+**** ECMAScript 6入门						 :javascript:
+http://es6.ruanyifeng.com
 
 * Blog
 
