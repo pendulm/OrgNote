@@ -95,7 +95,7 @@ http://www.umbrant.com/blog/2015/mesos_omega_borg_survey.html
 **** Bash associative array examples				      :shell:
 http://www.artificialworlds.net/blog/2012/10/17/bash-associative-array-examples/
 **** How to Backup Linux? 15 rsync Command Examples		      :rsync:
-     http://www.thegeekstuff.com/2010/09/rsync-command-examples/
+http://www.thegeekstuff.com/2010/09/rsync-command-examples/
 **** True Zero Downtime HAProxy Reloads				    :haproxy:
 http://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html
 *** Aug
@@ -127,7 +127,7 @@ https://blog.cloudflare.com/kernel-bypass/
 **** What I Wish I Knew When Learning Haskell			    :haskell:
 http://dev.stephendiehl.com/hask/
 **** Implementing a JIT Compiled Language with Haskell and LLVM :haskell:llvm:
-     http://www.stephendiehl.com/llvm/
+http://www.stephendiehl.com/llvm/
 **** What's New in CPUs Since the 80s and How Does It Affect Programmers? :cpu:
 http://danluu.com/new-cpu-features/
 **** Dynamic TLS certificates with OpenResty and ssl_certificate_by_lua :nginx:
@@ -136,13 +136,46 @@ https://litespeed.io/dynamic-tls-certificates-with-openresty-and-ssl_certificate
 http://stephanepeter.com/makeself/
 **** C++ Core Guidelines						  :c++:
 https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
-**** Erlang compilation						     :erlang:
 **** Python Goto						     :python:
 https://github.com/snoack/python-goto
 **** IO负载高的来源定位						   :linux:io:
 http://www.cnblogs.com/cenalulu/archive/2013/04/12/3016714.html
 **** Hadoop安装教程_单机/伪分布式配置				     :hadoop:
 http://www.powerxing.com/install-hadoop/
+**** It’s Time for Low Latency					    :latency:
+https://www.evernote.com/shard/s4/sh/da079cd2-c272-4b13-9a10-c70a213873b4/00985892a73d80a0
+**** Virtio: An I/O virtualization framework for Linux		    :virtual:
+http://www.ibm.com/developerworks/library/l-virtio/
+*** Oct
+**** Using imagemagick, awk and kmeans to find dominant colors in images :color:
+http://javier.io/blog/en/2015/09/30/using-imagemagick-and-kmeans-to-find-dominant-colors-in-images.html
+**** Pushing the Limits of Kernel Networking			    :network:
+http://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/
+**** A PATTERN FOR OPTIMIZING GO					 :go:
+http://blog.signalfx.com/a-pattern-for-optimizing-go
+**** Do not let your CDN betray you: Use Subresource Integrity		:web:
+https://hacks.mozilla.org/2015/09/subresource-integrity-in-firefox-43/
+**** JavaScript goes to Asynchronous city			 :javascript:
+http://blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx
+**** ECMAScript 6入门						 :javascript:
+http://es6.ruanyifeng.com
+**** container compilation					  :container:
+http://doger.io/
+**** 1M QPS with nginx and Ubuntu 12.04 on EC2		:performance:network:
+http://strace.co/91xqyPJ#http://datacratic.com/site/blog/1m-qps-nginx-and-ubuntu-1204-ec2
+**** The Lost Art of C Structure Packing			  :c:packing:
+http://www.catb.org/esr/structure-packing/
+**** Intel VT-d						      :virtual:intel:
+https://software.intel.com/en-us/articles/intel-virtualization-technology-for-directed-io-vt-d-enhancing-intel-platforms-for-efficient-virtualization-of-io-devices
+**** bcc: Taming Linux 4.3+ Tracing Superpowers			:linux:trace:
+http://www.brendangregg.com/blog/2015-09-22/bcc-linux-4.3-tracing.html
+**** The LMAX Architecture					  :disruptor:
+http://martinfowler.com/articles/lmax.html
+**** LMAX Disruptor
+http://lmax-exchange.github.io/disruptor/files/Disruptor-1.0.pdf
+
+
+
 * Blog
 
 ** Individuals
