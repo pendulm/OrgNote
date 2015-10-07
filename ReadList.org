@@ -137,7 +137,12 @@ http://stephanepeter.com/makeself/
 **** C++ Core Guidelines						  :c++:
 https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
 **** Erlang compilation						     :erlang:
-
+**** Python Goto						     :python:
+https://github.com/snoack/python-goto
+**** IO负载高的来源定位						   :linux:io:
+http://www.cnblogs.com/cenalulu/archive/2013/04/12/3016714.html
+**** Hadoop安装教程_单机/伪分布式配置				     :hadoop:
+http://www.powerxing.com/install-hadoop/
 * Blog
 
 ** Individuals
@@ -163,6 +168,9 @@ https://www.ustack.com/blog/
 *** userspace network stacks
 - Running the kernel in library mode :: http://lwn.net/Articles/639333/
 - Library Operating System for Linux  :: http://www.slideshare.net/hajimetazaki/library-operating-system-for-linux-netdev01
+** Misc
+*** Linux kernel development
+https://github.com/0xAX/linux-insides/blob/master/Misc/contribute.md
 * Virtualization
 ** network
 *** Network virtualization with VXLAN
