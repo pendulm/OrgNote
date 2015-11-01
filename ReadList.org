@@ -173,9 +173,21 @@ http://www.brendangregg.com/blog/2015-09-22/bcc-linux-4.3-tracing.html
 http://martinfowler.com/articles/lmax.html
 **** LMAX Disruptor
 http://lmax-exchange.github.io/disruptor/files/Disruptor-1.0.pdf
-
-
-
+**** From REST to GraphQL					    :graphql:
+https://blog.jacobwgillespie.com/from-rest-to-graphql-b4e95e94c26b
+**** Dublin Traceroute						    :network:
+https://dublin-traceroute.net/README.md
+**** Evolving How We Learn Systems with Lessons from Programming in the Large
+http://hoverbear.org/2015/09/12/understand-over-guesswork/
+**** SendIP							    :network:
+http://snad.ncsl.nist.gov/ipv6//sendip.html
+**** Parallelism, Concurrency, and Asynchrony in Perl 6		      :perl6:
+http://jnthn.net/papers/2015-yapcasia-concurrency.pdf
+**** QEMU Internals						       :qemu:
+     http://ellcc.org/ellcc/share/doc/qemu/qemu-tech.html
+*** Nov
+**** decrypting secure tunnels						:ssh:
+http://paperlined.org/sysadmin/network/decrypting_secure_tunnels.html
 * Blog
 
 ** Individuals
