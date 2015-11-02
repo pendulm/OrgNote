@@ -190,6 +190,8 @@ http://jnthn.net/papers/2015-yapcasia-concurrency.pdf
 *** Nov
 **** decrypting secure tunnels						:ssh:
 http://paperlined.org/sysadmin/network/decrypting_secure_tunnels.html
+**** tmux Copy & Paste on OS X: A Better Future			       :tmux:
+https://robots.thoughtbot.com/tmux-copy-paste-on-os-x-a-better-future
 * Blog
 
 ** Individuals
