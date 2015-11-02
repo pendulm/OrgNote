@@ -173,6 +173,8 @@ http://www.brendangregg.com/blog/2015-09-22/bcc-linux-4.3-tracing.html
 http://martinfowler.com/articles/lmax.html
 **** LMAX Disruptor
 http://lmax-exchange.github.io/disruptor/files/Disruptor-1.0.pdf
+**** How to filter, split or merge pcap files on Linux	  :tcpdump:wireshark:
+http://xmodulo.com/filter-split-merge-pcap-linux.html
 
 
 
