@@ -173,6 +173,8 @@ http://www.brendangregg.com/blog/2015-09-22/bcc-linux-4.3-tracing.html
 http://martinfowler.com/articles/lmax.html
 **** LMAX Disruptor
 http://lmax-exchange.github.io/disruptor/files/Disruptor-1.0.pdf
+**** How to filter, split or merge pcap files on Linux	  :tcpdump:wireshark:
+http://xmodulo.com/filter-split-merge-pcap-linux.html
 **** From REST to GraphQL					    :graphql:
 https://blog.jacobwgillespie.com/from-rest-to-graphql-b4e95e94c26b
 **** Dublin Traceroute						    :network:
@@ -190,6 +192,23 @@ http://jnthn.net/papers/2015-yapcasia-concurrency.pdf
 http://paperlined.org/sysadmin/network/decrypting_secure_tunnels.html
 **** Updating Daylight Saving Time on Linux
 https://chrisjean.com/updating-daylight-saving-time-on-linux/
+**** tmux Copy & Paste on OS X: A Better Future			       :tmux:
+https://robots.thoughtbot.com/tmux-copy-paste-on-os-x-a-better-future
+**** Profiling Python in Production				     :python:
+https://www.nylas.com/blog/performance
+**** systemd-networkd Migration and Benchmarks: Fast and Furious    :systemd:
+https://tlhp.cf/systemd-networkd-migration-and-benchmarks/
+**** Swagger							:api:restful:
+http://swagger.io/
+**** Creating purpose-built TinyCoreLinux Images
+http://fabianstumpf.de/articles/tinycore_images.htm
+**** Visual Cryptography
+http://www.datagenetics.com/blog/november32013/
+**** fwupd: Updating Firmware in Linux
+http://www.fwupd.org/index.html
+**** Emacs for vi users
+http://www.elmindreda.org/emacs.html
+
 * Blog
 
 ** Individuals
