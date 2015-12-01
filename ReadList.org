@@ -238,6 +238,17 @@ http://www.pixelbeat.org/docs/coreutils-gotchas.html
 
 **** Magit! A Git Porcelain inside Emacs 			      :emacs:
 http://magit.vc/
+
+**** Linux Performance Analysis in 60,000 Milliseconds
+http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html
+
+**** Dd - Destroyer of Disks					      :Linux:
+http://www.noah.org/wiki/Dd_-_Destroyer_of_Disks
+
+**** Containerizing in the real world . . . of Minecraft	     :docker:
+http://googlecloudplatform.blogspot.jp/2015/11/containerizing-in-the-real-world-of-Minecraft.html
+*** Dec
+
 * Blog
 
 ** Individuals
