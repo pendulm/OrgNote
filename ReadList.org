@@ -192,6 +192,9 @@ http://jnthn.net/papers/2015-yapcasia-concurrency.pdf
 http://paperlined.org/sysadmin/network/decrypting_secure_tunnels.html
 **** tmux Copy & Paste on OS X: A Better Future			       :tmux:
 https://robots.thoughtbot.com/tmux-copy-paste-on-os-x-a-better-future
+**** get current time in seconds since the Epoch on Linux, Bash	       :bash:
+http://stackoverflow.com/questions/1092631/get-current-time-in-seconds-since-the-epoch-on-linux-bash
+
 * Blog
 
 ** Individuals
