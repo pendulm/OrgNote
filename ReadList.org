@@ -190,10 +190,67 @@ http://jnthn.net/papers/2015-yapcasia-concurrency.pdf
 *** Nov
 **** decrypting secure tunnels						:ssh:
 http://paperlined.org/sysadmin/network/decrypting_secure_tunnels.html
+**** Updating Daylight Saving Time on Linux
+https://chrisjean.com/updating-daylight-saving-time-on-linux/
 **** tmux Copy & Paste on OS X: A Better Future			       :tmux:
 https://robots.thoughtbot.com/tmux-copy-paste-on-os-x-a-better-future
 **** get current time in seconds since the Epoch on Linux, Bash	       :bash:
 http://stackoverflow.com/questions/1092631/get-current-time-in-seconds-since-the-epoch-on-linux-bash
+**** Profiling Python in Production				     :python:
+https://www.nylas.com/blog/performance
+**** systemd-networkd Migration and Benchmarks: Fast and Furious    :systemd:
+https://tlhp.cf/systemd-networkd-migration-and-benchmarks/
+**** Swagger							:api:restful:
+http://swagger.io/
+**** Creating purpose-built TinyCoreLinux Images
+http://fabianstumpf.de/articles/tinycore_images.htm
+**** Visual Cryptography
+http://www.datagenetics.com/blog/november32013/
+**** fwupd: Updating Firmware in Linux
+http://www.fwupd.org/index.html
+**** Emacs for vi users						      :emacs:
+http://www.elmindreda.org/emacs.html
+
+**** A CEO's Guide to Emacs					      :emacs:
+https://blog.fugue.co/2015-11-11-guide-to-emacs.html
+
+**** Squashing Docker images with Btrfs
+http://kamalmarhubi.com/blog/2015/11/27/squashing-docker-images-with-btrfs/
+
+**** TCP over IP Anycast - Pipe dream or Reality?
+https://engineering.linkedin.com/network-performance/tcp-over-ip-anycast-pipe-dream-or-reality
+
+**** How LinkedIn used PoPs and RUM to make dynamic content download 25% faster
+https://engineering.linkedin.com/performance/how-linkedin-used-pops-and-rum-make-dynamic-content-download-25-faster
+
+**** TCP Anycast - Don't believe the FUD
+https://www.nanog.org/meetings/nanog37/presentations/matt.levine.pdf
+
+**** Why you should understand (a little) about TCP		:tcp:nodelay:
+http://jvns.ca/blog/2015/11/21/why-you-should-understand-a-little-about-tcp/
+
+**** Changes in the TLS certificate ecosystem, part 2	    :tls:certificate:
+http://lwn.net/Articles/664240/
+
+**** The secret message hidden in every HTTP/2 connection
+http://blog.jgc.org/2015/11/the-secret-message-hidden-in-every.html
+
+**** coreutils gotchas
+http://www.pixelbeat.org/docs/coreutils-gotchas.html
+
+**** Magit! A Git Porcelain inside Emacs 			      :emacs:
+http://magit.vc/
+
+**** Linux Performance Analysis in 60,000 Milliseconds
+http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html
+
+**** Dd - Destroyer of Disks					      :Linux:
+http://www.noah.org/wiki/Dd_-_Destroyer_of_Disks
+
+**** Containerizing in the real world . . . of Minecraft	     :docker:
+http://googlecloudplatform.blogspot.jp/2015/11/containerizing-in-the-real-world-of-Minecraft.html
+*** Dec
+
 
 * Blog
 
