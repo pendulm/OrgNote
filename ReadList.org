@@ -194,6 +194,8 @@ http://paperlined.org/sysadmin/network/decrypting_secure_tunnels.html
 https://chrisjean.com/updating-daylight-saving-time-on-linux/
 **** tmux Copy & Paste on OS X: A Better Future			       :tmux:
 https://robots.thoughtbot.com/tmux-copy-paste-on-os-x-a-better-future
+**** get current time in seconds since the Epoch on Linux, Bash	       :bash:
+http://stackoverflow.com/questions/1092631/get-current-time-in-seconds-since-the-epoch-on-linux-bash
 **** Profiling Python in Production				     :python:
 https://www.nylas.com/blog/performance
 **** systemd-networkd Migration and Benchmarks: Fast and Furious    :systemd:
@@ -250,6 +252,7 @@ http://googlecloudplatform.blogspot.jp/2015/11/containerizing-in-the-real-world-
 *** Dec
 **** The uWSGI Swiss Army Knife					     :python:
 https://lincolnloop.com/blog/uwsgi-swiss-army-knife/
+
 
 * Blog
 
