@@ -252,7 +252,8 @@ http://googlecloudplatform.blogspot.jp/2015/11/containerizing-in-the-real-world-
 *** Dec
 **** The uWSGI Swiss Army Knife					     :python:
 https://lincolnloop.com/blog/uwsgi-swiss-army-knife/
-
+**** 可靠分布式系统基础 Paxos 的直观解释
+http://drmingdrmer.github.io/tech/distributed/2015/11/11/paxos-slide.html
 
 * Blog
 
