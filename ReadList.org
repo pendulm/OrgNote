@@ -248,6 +248,8 @@ http://www.noah.org/wiki/Dd_-_Destroyer_of_Disks
 **** Containerizing in the real world . . . of Minecraft	     :docker:
 http://googlecloudplatform.blogspot.jp/2015/11/containerizing-in-the-real-world-of-Minecraft.html
 *** Dec
+**** The uWSGI Swiss Army Knife					     :python:
+https://lincolnloop.com/blog/uwsgi-swiss-army-knife/
 
 * Blog
 
