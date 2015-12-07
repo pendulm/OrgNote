@@ -264,6 +264,10 @@ http://mustafaak.in/2015/12/05/docker-overlay-performance.html
 http://www.snarky.ca/if-i-were-designing-imort-from-scratch
 **** HTTP/2 is here! Goodbye SPDY? Not quite yet			:tls:
 https://blog.cloudflare.com/introducing-http2/
+**** The uWSGI Swiss Army Knife					     :python:
+https://lincolnloop.com/blog/uwsgi-swiss-army-knife/
+**** 可靠分布式系统基础 Paxos 的直观解释
+http://drmingdrmer.github.io/tech/distributed/2015/11/11/paxos-slide.html
 
 * Blog
 
