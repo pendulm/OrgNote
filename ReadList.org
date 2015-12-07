@@ -250,7 +250,20 @@ http://www.noah.org/wiki/Dd_-_Destroyer_of_Disks
 **** Containerizing in the real world . . . of Minecraft	     :docker:
 http://googlecloudplatform.blogspot.jp/2015/11/containerizing-in-the-real-world-of-Minecraft.html
 *** Dec
-
+**** http2 explained
+http://http2-explained.haxx.se/
+**** 关于启用 HTTPS 的一些经验分享
+https://imququ.com/post/sth-about-switch-to-https.html
+**** 3 Second Sandwich —— How do card networks work?		    :payment:
+https://getmondo.co.uk/blog/2015/12/02/3-second-sandwich/
+**** alda  —— A music programming language for musicians
+https://github.com/alda-lang/alda
+**** Overlay Network Performance of Docker			      :vxlan:
+http://mustafaak.in/2015/12/05/docker-overlay-performance.html
+**** If I were designing Python's import from scratch		     :python:
+http://www.snarky.ca/if-i-were-designing-imort-from-scratch
+**** HTTP/2 is here! Goodbye SPDY? Not quite yet			:tls:
+https://blog.cloudflare.com/introducing-http2/
 
 * Blog
 
@@ -273,10 +286,13 @@ https://www.ustack.com/blog/
 ** live patch
 - A rough patch for live patching :: http://lwn.net/Articles/634649/
 ** network
-
+   
 *** userspace network stacks
 - Running the kernel in library mode :: http://lwn.net/Articles/639333/
 - Library Operating System for Linux  :: http://www.slideshare.net/hajimetazaki/library-operating-system-for-linux-netdev01
+
+*** Queueing in the Linux Network Stack
+https://www.coverfire.com/articles/queueing-in-the-linux-network-stack/
 ** Misc
 *** Linux kernel development
 https://github.com/0xAX/linux-insides/blob/master/Misc/contribute.md
