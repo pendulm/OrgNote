@@ -269,6 +269,14 @@ https://lincolnloop.com/blog/uwsgi-swiss-army-knife/
 **** 可靠分布式系统基础 Paxos 的直观解释
 http://drmingdrmer.github.io/tech/distributed/2015/11/11/paxos-slide.html
 
+**** Emacs Lisp Animations
+http://dantorop.info/project/emacs-animation/
+
+**** rsync.net: ZFS Replication to the cloud is finally here—and it’s fast
+http://arstechnica.com/information-technology/2015/12/rsync-net-zfs-replication-to-the-cloud-is-finally-here-and-its-fast/
+
+**** Spark Streaming 源码解析系列
+https://github.com/proflin/CoolplaySpark
 * Blog
 
 ** Individuals
