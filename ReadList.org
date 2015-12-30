@@ -1,3 +1,4 @@
+
 * Tech
 ** 2015
 *** May
@@ -277,6 +278,21 @@ http://arstechnica.com/information-technology/2015/12/rsync-net-zfs-replication-
 
 **** Spark Streaming 源码解析系列
 https://github.com/proflin/CoolplaySpark
+**** dotfiles -- Your unofficial guide to dotfiles on GitHub.
+https://dotfiles.github.io/
+**** To cd or not to cd						      :shell:
+http://www.redpill-linpro.com/sysadvent/2015/12/02/cd-tips.html
+**** Changing a process’ file descriptor on the fly
+http://www.redpill-linpro.com/sysadvent/2015/12/04/changing-a-process-file-descriptor-with-gdb.html
+**** Java工程师成神之路
+     http://www.hollischuang.com/archives/489
+**** IPFS：替代HTTP的分布式网络协议
+http://www.infoq.com/cn/articles/ipfs
+**** Install Arch Infographic
+https://imgur.com/Hokk8sK
+**** A Python Interpreter Written in Python
+http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html
+
 * Blog
 
 ** Individuals
