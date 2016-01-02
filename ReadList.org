@@ -283,6 +283,8 @@ http://www.infoq.com/cn/articles/ipfs
 https://imgur.com/Hokk8sK
 **** A Python Interpreter Written in Python
 http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html
+**** Moores law hits the roof						:cpu:
+http://www.agner.org/optimize/blog/read.php?i=417
 * Blog
 
 ** Individuals
@@ -300,6 +302,9 @@ https://blog.cloudflare.com/
 https://www.ustack.com/blog/
 
 ** Organizations
+
+*** The Architecture of Open Source Applications
+http://aosabook.org/en/index.html
 * Kernel
 ** live patch
 - A rough patch for live patching :: http://lwn.net/Articles/634649/
