@@ -295,6 +295,10 @@ http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html
 **** Moores law hits the roof						:cpu:
 http://www.agner.org/optimize/blog/read.php?i=417
 
+** 2016
+
+*** 浏览器端的 9 种缓存机制					      :cache:
+https://linux.cn/article-6833-1.html
 * Blog
 
 ** Individuals
