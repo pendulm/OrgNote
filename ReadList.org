@@ -299,6 +299,19 @@ http://www.agner.org/optimize/blog/read.php?i=417
 
 *** 浏览器端的 9 种缓存机制					      :cache:
 https://linux.cn/article-6833-1.html
+
+***  Inappropriate TCP Resets Considered Harmful
+https://tools.ietf.org/html/rfc3360
+
+*** Remap the Kernel
+http://os.phil-opp.com/remap-the-kernel.html
+
+*** A Python Interpreter Written in Python
+http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html
+
+*** ScyllaDB: world's fastest NoSQL column store database
+http://www.scylladb.com/
+
 * Blog
 
 ** Individuals
@@ -347,7 +360,10 @@ http://adamraffe.com/2013/06/24/enhanced-vxlan-who-needs-multicast/
 https://weakdh.org/
 **** Logjam: the latest TLS vulnerability explained
 https://blog.cloudflare.com/logjam-the-latest-tls-vulnerability-explained/
-
+* Project
+*** OSv operating system
+http://osv.io/
+*** 
 
 * Command
 rsync -avzhP <[[user@]]host1:]directory1> <[[user@]]host2:]directory2>
