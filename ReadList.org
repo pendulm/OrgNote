@@ -293,6 +293,45 @@ https://imgur.com/Hokk8sK
 **** A Python Interpreter Written in Python
 http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html
 
+** 2016
+
+*** Jan
+
+**** The Elements of Python Style
+https://github.com/amontalenti/elements-of-python-style
+
+**** A Unikernel Firewall for QubesOS
+http://roscidus.com/blog/blog/2016/01/01/a-unikernel-firewall-for-qubesos/
+
+**** 32C3 CTF: Docker writeup
+https://kitctf.de/writeups/32c3ctf/docker/
+
+**** Zopfli Optimization: Literally Free Bandwidth
+http://blog.codinghorror.com/zopfli-optimization-literally-free-bandwidth/
+
+**** Remap the Kernel						       :rust:
+http://os.phil-opp.com/remap-the-kernel.html
+
+**** Why `print` became a function in Python 3
+http://www.snarky.ca/why-print-became-a-function-in-python-3
+
+**** intermezzOS						  :kernel:os:
+http://intermezzos.github.io/
+
+**** es6-cheatsheet
+https://github.com/DrkSephy/es6-cheatsheet
+
+**** Assembly is Too High Level: SIB Doubles
+http://xlogicx.net/?p=456
+
+**** A Book about Qt5
+http://qmlbook.github.io/
+
+**** Unikernel Systems
+http://unikernel.com/
+
+**** dead or alive: Linux LibOS project in 2016
+https://github.com/thehajime/blog/issues/1
 * Blog
 
 ** Individuals
@@ -324,6 +363,7 @@ https://www.coverfire.com/articles/queueing-in-the-linux-network-stack/
 ** Misc
 *** Linux kernel development
 https://github.com/0xAX/linux-insides/blob/master/Misc/contribute.md
+
 * Virtualization
 ** network
 *** Network virtualization with VXLAN
@@ -346,3 +386,8 @@ rsync -avzhP <[[user@]]host1:]directory1> <[[user@]]host2:]directory2>
 * References
 ** lua-users.org							:lua:
 http://lua-users.org/
+* Font & Ideogram 
+** What's new in Unicode 9.0 ?
+http://babelstone.blogspot.com/2016/01/whats-new-in-unicode-90.html
+** The long, incredibly tortuous, and fascinating process of creating a Chinese font
+http://qz.com/522079/the-long-incredibly-tortuous-and-fascinating-process-of-creating-a-chinese-font/
