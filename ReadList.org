@@ -292,6 +292,25 @@ http://www.infoq.com/cn/articles/ipfs
 https://imgur.com/Hokk8sK
 **** A Python Interpreter Written in Python
 http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html
+**** Moores law hits the roof						:cpu:
+http://www.agner.org/optimize/blog/read.php?i=417
+
+** 2016
+
+*** 浏览器端的 9 种缓存机制					      :cache:
+https://linux.cn/article-6833-1.html
+
+***  Inappropriate TCP Resets Considered Harmful
+https://tools.ietf.org/html/rfc3360
+
+*** Remap the Kernel
+http://os.phil-opp.com/remap-the-kernel.html
+
+*** A Python Interpreter Written in Python
+http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html
+
+*** ScyllaDB: world's fastest NoSQL column store database
+http://www.scylladb.com/
 
 ** 2016
 
@@ -349,6 +368,9 @@ https://blog.cloudflare.com/
 https://www.ustack.com/blog/
 
 ** Organizations
+
+*** The Architecture of Open Source Applications
+http://aosabook.org/en/index.html
 * Kernel
 ** live patch
 - A rough patch for live patching :: http://lwn.net/Articles/634649/
@@ -378,7 +400,10 @@ http://adamraffe.com/2013/06/24/enhanced-vxlan-who-needs-multicast/
 https://weakdh.org/
 **** Logjam: the latest TLS vulnerability explained
 https://blog.cloudflare.com/logjam-the-latest-tls-vulnerability-explained/
-
+* Project
+*** OSv operating system
+http://osv.io/
+*** 
 
 * Command
 rsync -avzhP <[[user@]]host1:]directory1> <[[user@]]host2:]directory2>
