@@ -295,25 +295,9 @@ http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html
 **** Moores law hits the roof						:cpu:
 http://www.agner.org/optimize/blog/read.php?i=417
 
-** 2016
-
-*** 浏览器端的 9 种缓存机制					      :cache:
-https://linux.cn/article-6833-1.html
-
-***  Inappropriate TCP Resets Considered Harmful
-https://tools.ietf.org/html/rfc3360
-
-*** Remap the Kernel
-http://os.phil-opp.com/remap-the-kernel.html
-
-*** A Python Interpreter Written in Python
-http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html
-
-*** ScyllaDB: world's fastest NoSQL column store database
-http://www.scylladb.com/
 
 ** 2016
-
+   
 *** Jan
 
 **** The Elements of Python Style
@@ -351,7 +335,217 @@ http://unikernel.com/
 
 **** dead or alive: Linux LibOS project in 2016
 https://github.com/thehajime/blog/issues/1
-* Blog
+
+**** 浏览器端的 9 种缓存机制 					      :cache:
+https://linux.cn/article-6833-1.html
+
+****  Inappropriate TCP Resets Considered Harmful
+https://tools.ietf.org/html/rfc3360
+
+**** Remap the Kernel
+http://os.phil-opp.com/remap-the-kernel.html
+
+**** A Python Interpreter Written in Python
+http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html
+
+**** ScyllaDB: world's fastest NoSQL column store database
+http://www.scylladb.com/
+
+*** Feb
+
+**** Writing my own init with Go - Part 1
+http://www.mustafaak.in/2016/02/08/writing-my-own-init-with-go.html
+
+**** Windows 10 TH2 (v1511) Console Host Enhancements		    :console:
+http://www.nivot.org/blog/post/2016/02/04/Windows-10-TH2-%28v1511%29-Console-Host-Enhancements
+
+**** Terminal codes (ANSI/VT100) introduction			    :console:
+http://wiki.bash-hackers.org/scripting/terminalcodes
+
+**** A Better Varargs							  :c:
+http://codeacumen.info/post/a-better-varargs/
+
+**** The Princeton Bitcoin textbook is now freely available
+https://freedom-to-tinker.com/blog/randomwalker/the-princeton-bitcoin-textbook-is-now-freely-available/
+
+**** Linux: Bash Delete All Files In Directory Except Few
+http://www.cyberciti.biz/faq/linux-bash-delete-all-files-in-directory-except-few/
+*** Mar
+**** Infix Operators in Python
+http://tomerfiliba.com/blog/Infix-Operators/
+**** The Idiomatic Way to Merge Dictionaries in Python
+https://treyhunner.com/2016/02/how-to-merge-dictionaries-in-python/
+**** boltons boltons should be builtins
+https://boltons.readthedocs.org/en/latest/index.html
+**** The origins of the class Meta idiom in python
+http://mapleoin.github.io/perma/python-class-meta
+**** TCP packet drop analysis			     :tcpdump:retran:network:
+http://www.unleashnetworks.com/blog/?p=437
+**** Flushing out Leaky Taps v2			      :tshark:retran:network:
+http://smusec.blogspot.jp/2012/03/flushing-out-leaky-taps-v2.html
+**** Using advanced tcpdump filters				    :tcpdump:
+https://support.f5.com/kb/en-us/solutions/public/2000/200/sol2289.html#Uni
+**** tcpdump tips
+http://blog.mosinu.com/?p=239
+**** How the heck does async/await work in Python 3.5?
+http://www.snarky.ca/how-the-heck-does-async-await-work-in-python-3-5
+**** Installing (encrypted) Arch Linux on an Apple MacBook Pro
+https://visual-assault.org/2016/03/05/install-encrypted-arch-linux-on-apple-macbook-pro/
+**** Python Mocking 101: Fake It Before You Make It
+https://blog.fugue.co/2016-02-11-python-mocking-101.html
+**** How does perf work? (in which we read the Linux kernel source)
+http://jvns.ca/blog/2016/03/12/how-does-perf-work-and-some-questions/
+**** Eliminating Delays From systemd-journald, Part 1
+https://coreos.com/blog/eliminating-journald-delays-part-1.html
+**** Autoconf Tutorial Part-1
+http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/
+**** LXD 2.0: Blog post series [0/12]				      :linux:
+https://www.stgraber.org/2016/03/11/lxd-2-0-blog-post-series-012/
+**** Maglev: A Fast and Reliable Software Network Load Balancer
+http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44824.pdf
+**** Dropping Packets in Ubuntu Linux using tc and iptables
+https://sandilands.info/sgordon/dropping-packets-in-ubuntu-linux-using-tc-and-iptables
+**** Lossless Gigabit Remote Packet Capture With Linux		    :tcpdump:
+http://staff.washington.edu/corey/gulp/
+**** Linux Network Stack Administration: A Developer’s Approach
+http://opensourceforu.efytimes.com/2009/08/linux-network-stack-administration-a-developers-approach/
+**** Understanding and optimizing Network utilization
+http://careers.directi.com/display/tu/Understanding+and+optimizing+Network+utilization
+**** Using NFQUEUE and libnetfilter_queue		      :iptable:linux:
+https://home.regit.org/netfilter-en/using-nfqueue-and-libnetfilter_queue/
+**** TCP Performance problems caused by interaction between Nagle’s Algorithm and Delayed ACK :tcptrace:
+http://www.stuartcheshire.org/papers/NagleDelayedAck/
+*** Apr
+****  I stared into the fontconfig, and the fontconfig stared back at me
+https://eev.ee/blog/2015/05/20/i-stared-into-the-fontconfig-and-the-fontconfig-stared-back-at-me/
+**** The Definitive Guide to Linux System Calls                       :linux:
+http://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/
+**** Linux Troubleshooting Cheatsheet: strace, htop, lsof, tcpdump, iftop & sysdig
+https://sysdig.com/blog/linux-troubleshooting-cheatsheet/
+**** Python Virtual Environments - a Primer
+https://realpython.com/blog/python/python-virtual-environments-a-primer/
+**** Bootstrap 4 Cheat Sheet
+http://hackerthemes.com/bootstrap-cheatsheet
+*** May
+**** The Ars guide to building a Linux router from scratch
+http://arstechnica.com/gadgets/2016/04/the-ars-guide-to-building-a-linux-router-from-scratch/
+**** How To Install Puppet 4 in a Master-Agent Setup on Ubuntu 14.04
+https://www.digitalocean.com/community/tutorials/how-to-install-puppet-4-in-a-master-agent-setup-on-ubuntu-14-04
+**** A simple way to install and configure puppet on CentOS 6
+http://techarena51.com/index.php/a-simple-way-to-install-and-configure-a-puppet-server-on-linux/
+**** puppet tutorial -- example42
+http://www.example42.com/tutorials/PuppetTutorial
+**** uvloop: Blazing fast Python networking
+http://magic.io/blog/uvloop-blazing-fast-python-networking/
+**** Toil is a workflow engine entirely written in Python
+http://toil.readthedocs.io/en/latest/
+**** SSH for Fun and Profit
+https://karla.io/2016/04/30/ssh-for-fun-and-profit.html
+**** Cipherli.st Strong Ciphers for Apache, nginx and Lighttpd
+https://cipherli.st/
+**** 6-Part Guide to NGINX Application Performance Optimization :tcp:performance:
+https://www.maxcdn.com/blog/nginx-application-performance-optimization/
+**** SuperTCP                                                   :performance:
+https://www.supertcp.com/technology-overview/
+**** A list of command line tools for manipulating structured text data :cli:
+https://github.com/dbohdan/structured-text-tools
+**** Kplugs a user-mode interface for plugging into the linux kernel   :perf:
+http://www.kplugs.org/
+**** How to turn any syscall into an event: Introducing eBPF Kernel probes
+https://blog.yadutaf.fr/2016/03/30/turn-any-syscall-into-event-introducing-ebpf-kernel-probes/
+**** Docker for your users - Introducing user namespace
+https://blog.yadutaf.fr/2016/04/14/docker-for-your-users-introducing-user-namespace/
+**** Real World Microservices: When Services Stop Playing Well and Start Getting Real
+https://blog.buoyant.io/2016/05/04/real-world-microservices-when-services-stop-playing-well-and-start-getting-real/
+**** Advanced Ping: httping, dnsping, smtpping
+http://blog.webernetz.net/2016/05/10/advanced-ping-httping-dnsping-smtpping/
+**** Who Needs Git When You Got ZFS?
+http://zef.me/blog/6023/who-needs-git-when-you-got-zfs
+**** Large (UDP) Packets in IPv6
+https://ripe72.ripe.net/wp-content/uploads/presentations/67-2016-05-23-bigipv6.pdf
+**** Security brief: CoreOS Linux Alpha remote SSH issue
+https://coreos.com/blog/security-brief-coreos-linux-alpha-remote-ssh-issue.html
+**** Web-based SSH
+https://en.wikipedia.org/wiki/Web-based_SSH
+**** A tutorial for porting to autoconf & automake                 :autotool:
+http://mij.oltrelinux.com/devel/autoconf-automake/
+**** Step-By-Step Example of Autotools for Beginner
+http://www.aireadfun.com/blog/2012/12/03/study-automake/
+**** The Architecture of Open Source Applications
+http://aosabook.org/en/index.html
+
+**** Introduction to the Autotools (autoconf, automake, and libtool)
+http://www.dwheeler.com/autotools/
+**** netem                                                    :linux:network:
+http://www.linuxfoundation.org/collaborate/workgroups/networking/netem
+
+**** Host Tuning                        :tcp:performance:network:optimizatio:
+http://fasterdata.es.net/host-tuning/
+
+**** SSH服务的几个超时参数 以及 类似DDOS攻击的方法
+https://yq.aliyun.com/articles/57903
+
+**** Greenplum 大集群应该调整的sshd_config配置
+http://www.atatech.org/articles/58918
+*** Jun
+**** 	Sikuli: Automate Anything You See on Screen (sikuli.org)
+https://news.ycombinator.com/item?id=11859980
+
+**** Why is a Rust executable large?
+https://lifthrasiir.github.io/rustlog/why-is-a-rust-executable-large.html
+**** Shell Script Mistakes
+http://www.pixelbeat.org/programming/shell_script_mistakes.html
+**** Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)
+http://redsymbol.net/articles/unofficial-bash-strict-mode/
+**** Easy Automated Snapshot-Style Backups with Linux and Rsync
+http://www.mikerubel.org/computers/rsync_snapshots/
+**** linux memory management for servers
+https://dom.as/2016/05/13/linux-memory-management-for-servers/
+**** Network support for TCP Fast Open
+https://www.nanog.org/sites/default/files/Paasch_Network_Support.pdf
+**** 10 Articles Every Programmer Must Read
+http://javarevisited.blogspot.com/2014/05/10-articles-every-programmer-must-read.html
+**** Monitoring and Tuning the Linux Networking Stack: Receiving Data
+http://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/
+*** Jul
+**** Kent Overstreet is creating bcachefs - a next generation Linux filesystem
+https://www.patreon.com/bcachefs
+**** Why do we use the Linux kernel's TCP stack?
+http://jvns.ca/blog/2016/06/30/why-do-we-use-the-linux-kernels-tcp-stack/
+**** How to Monitor Zookeeper
+https://blog.serverdensity.com/how-to-monitor-zookeeper/
+**** ZooKeeper In The Wild
+https://events.linuxfoundation.org/sites/events/files/slides/ZooKeeper%20in%20the%20Wild.pdf
+**** Use EJS to Template Your Node Application
+https://scotch.io/tutorials/use-ejs-to-template-your-node-application
+**** Hadoop architectural overview
+https://www.datadoghq.com/blog/hadoop-architecture-overview/
+*** Aug
+**** HTTP Request Timings with cURL
+http://blog.kenweiner.com/2014/11/http-request-timings-with-curl.html
+**** WIKIBOOK openssh
+https://en.wikibooks.org/wiki/OpenSSH
+**** Why GNU Autotools is not my favorite build system
+http://voices.canonical.com/jussi.pakkanen/2011/09/13/autotools/
+**** TLS has exactly one performance problem: it is not used widely enough.
+https://istlsfastyet.com/
+**** Job queues, message queues and other queues. Almost all of them in one place.
+http://queues.io/
+**** Git Workflow Basics
+https://blog.codeminer42.com/git-workflow-basics-d405746f6205
+**** Introduction 2016 NUMA Deep Dive Series
+http://frankdenneman.nl/2016/07/06/introduction-2016-numa-deep-dive-series/
+**** gdb Debugging Full Example (Tutorial): ncurses
+http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html
+**** TCP Puzzlers
+https://www.joyent.com/blog/tcp-puzzlers
+**** BPF - the forgotten bytecode
+https://blog.cloudflare.com/bpf-the-forgotten-bytecode/
+**** New (and Exciting!) Developments in Linux Tracing                  :bpf:
+     http://events.linuxfoundation.org/sites/events/files/slides/tracing-linux-ezannoni-linuxcon-ja-2015_0.pdf
+**** JIT native code generation for TensorFlow computation graphs using Python and LLVM
+http://blog.christianperone.com/2016/08/jit-native-code-generation-for-tensorflow-computation-graphs-using-python-and-llvm/
+* blog
 
 ** Individuals
 *** Axb的自我修养
@@ -368,9 +562,9 @@ https://blog.cloudflare.com/
 https://www.ustack.com/blog/
 
 ** Organizations
+*** Linux Audit - Linux security: Auditing, Hardening and Compliance
+http://linux-audit.com/
 
-*** The Architecture of Open Source Applications
-http://aosabook.org/en/index.html
 * Kernel
 ** live patch
 - A rough patch for live patching :: http://lwn.net/Articles/634649/

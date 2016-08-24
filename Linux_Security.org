@@ -1,0 +1,26 @@
+user account
+
+/etc/passwd  user accounts information
+/etc/shadow  user password information
+
+shadow
+
+
+
+account lifetime status
+
+epoch ---- created ---- allow ---- warning ---- pw expired ---- pw inactived ----- account expired 
+|           |_______._______|         |______._______|________._________|                  |
+|           |_______|____________.___________|_______|        |                            |
+|___________|_______|____________|___________|________________|__________________._________|
+            |       |            |           |                |                  |
+            $3      $4           $5          $6               $7                 $8    
+
+showdow file format
+1)login name:2)passwd:3)last chage:4)min age:5)max age:6)warning period:7)inactivity period:8)expiration date:9)reserved
+
+
+
+
+example:
+chage -l mike # show passwd expiry
