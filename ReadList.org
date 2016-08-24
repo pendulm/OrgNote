@@ -545,6 +545,10 @@ https://blog.cloudflare.com/bpf-the-forgotten-bytecode/
      http://events.linuxfoundation.org/sites/events/files/slides/tracing-linux-ezannoni-linuxcon-ja-2015_0.pdf
 **** JIT native code generation for TensorFlow computation graphs using Python and LLVM
 http://blog.christianperone.com/2016/08/jit-native-code-generation-for-tensorflow-computation-graphs-using-python-and-llvm/
+**** Virtio networking: A case study of I/O paravirtualization :linux:kernel:network:
+http://lettieri.iet.unipi.it/virtualization/io-paravirtualization-tour.pdf
+**** virtio: Towards a De-Facto Standard For Virtual I/O Devices
+http://ozlabs.org/~rusty/virtio-spec/virtio-paper.pdf
 * blog
 
 ** Individuals
