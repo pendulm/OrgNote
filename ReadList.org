@@ -9,7 +9,7 @@ http://www.cnblogs.com/ggjucheng/archive/2012/01/14/2322659.html
 **** 翻译：理解TCP/IP网络栈&编写网络应用 		 :network:kernel:tcp:
 http://blog.2baxb.me/archives/1174
 http://blog.2baxb.me/archives/1190
-**** 深入浅出Mesos						      :mesos:
+*want*http://www.unixdaemon.net/puppet/puppet-3.7-file-function/**Barriers, Caches, Filesystems 深入浅出MeLuasos			理平台应该能提供丰富的功能函数，比如，map			      :mesos:
 http://www.infoq.com/cn/articles/analyse-mesos-part-02
 **** Docker Without Docker				     :docker:systemd:
 https://chimeracoder.github.io/docker-without-docker/#1
@@ -549,6 +549,63 @@ http://blog.christianperone.com/2016/08/jit-native-code-generation-for-tensorflo
 http://lettieri.iet.unipi.it/virtualization/io-paravirtualization-tour.pdf
 **** virtio: Towards a De-Facto Standard For Virtual I/O Devices
 http://ozlabs.org/~rusty/virtio-spec/virtio-paper.pdf
+**** Obscure Ethernet for $200 please, Alex: The Ethernet PAUSE frame
+http://jeffq.com/blog/the-ethernet-pause-frame/
+*** Sep
+**** [线上问题] Nginx与Tomcat、Client之间请求的长连接配置不一致问题分析解决 :kee:
+http://bert82503.iteye.com/blog/2152613
+**** TIME_WAIT问题小结
+http://www.zuoqin.me/time_wait%E9%97%AE%E9%A2%98%E5%B0%8F%E7%BB%93/
+**** How the Linux kernel knows it’s running in a Virtual Machine       :kvm:
+http://perfolys.io/2016/09/06/how-the-linux-kernel-knows-its-running-in-a-virtual-machine/
+**** Linux Networking Explained
+http://www.slideshare.net/ThomasGraf5/linux-networking-explained
+**** If You Like Bonding, You Will Love Teaming               :network:linux:
+http://rhelblog.redhat.com/2014/06/23/team-driver/
+**** Linux Kernel Tinification
+https://tiny.wiki.kernel.org/start
+**** Linux Music Workflow: Switching from Mac OS X to Ubuntu with Kim Cascone
+http://cdm.link/2009/08/linux-music-workflow-switching-from-mac-os-x-to-ubuntu-with-kim-cascone/
+**** Linux system hardening: adding hidepid to /proc
+https://linux-audit.com/linux-system-hardening-adding-hidepid-to-proc/
+**** The various IDs of disks, filesystems, software RAID, LVM, et al in Linux
+https://utcc.utoronto.ca/~cks/space/blog/linux/IDsForDisksAndFilesystems
+**** A Funny Thing Happened on the Way to Java 8              :jvm:codecache:
+http://engineering.indeedblog.com/blog/2016/09/job-search-web-app-java-8-migration/
+**** So you want your JVM’s heap…
+http://blogs.atlassian.com/2013/03/so-you-want-your-jvms-heap/
+**** JAVA dump and -F options
+http://stackoverflow.com/questions/26140182/running-jmap-getting-unable-to-open-socket-file
+**** Docker: Configure Insecure Registry for systemd
+http://www.developmentalmadness.com/2016/03/09/docker-configure-insecure-registry-for-systemd/
+**** Barriers, Caches, Filesystems                                  :storage:
+https://monolight.cc/2011/06/barriers-caches-filesystems/
+**** uvloop: Blazing fast Python networking
+https://magic.io/blog/uvloop-blazing-fast-python-networking/
+**** The Morning Paper on Operability
+https://blog.acolyer.org/2016/09/21/the-morning-paper-on-operability/
+**** security things in Linux v4.3
+https://outflux.net/blog/archives/2016/09/26/security-things-in-linux-v4-3/
+**** Tracing on Linux
+http://netsplit.com/tracing-on-linux
+**** Http 请求头中的 Proxy-Connection
+https://imququ.com/post/the-proxy-connection-header-in-http-request.html
+*** Oct
+**** TCP协议的性能评测工具 — Tcpdive开源啦
+http://blog.csdn.net/zhangskd/article/details/50529254
+**** FRTO—虚假超时剖析                                                  :tcp:
+http://blog.csdn.net/zhangskd/article/details/7446441
+**** 每个JavaScript开发者都该懂的Unicode 
+http://www.zcfy.cc/article/what-every-javascript-developer-should-know-about-unicode-1303.html
+**** Vim: So long Pathogen, hello native package loading
+https://shapeshed.com/vim-packages/
+*** Nov
+**** Comparison of Apache Stream Processing Frameworks: Part 1 :flink:storm:spark:
+http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-1
+**** Puppet 3.7 File Function Improvements
+http://www.unixdaemon.net/puppet/puppet-3.7-file-function/
+**** Hadoop YARN中内存和CPU两种资源的调度和隔离
+http://dongxicheng.org/mapreduce-nextgen/hadoop-yarn-memory-cpu-scheduling/
 * blog
 
 ** Individuals
