@@ -8,8 +8,12 @@ http://www.cnblogs.com/ggjucheng/archive/2012/01/14/2322659.html
 [[http://correl.phoenixinquis.net/2014/11/25/getting-organized-with-org-mode.html]]
 **** 翻译：理解TCP/IP网络栈&编写网络应用 		 :network:kernel:tcp:
 http://blog.2baxb.me/archives/1174
-http://blog.2baxb.me/archives/1190
-*want*http://www.unixdaemon.net/puppet/puppet-3.7-file-function/**Barriers, Caches, Filesystems 深入浅出MeLuasos			理平台应该能提供丰富的功能函数，比如，map			      :mesos:
+http://blog.2baxb.me/archives/119fly0
+*wahausuire applications to provide feamazingo利用率这一点上，又涌现出许多新的基于丢包反馈的TCP协议改进，这其中包括HSTCP、STCP、BIC-TCP、CUBIC和H-TCP。m/
+*** nixCraft
+http://www.cyberciti.biz/
+*** mark nottingham
+https://www.mnotarch  sy-m syscall -k for_ext3_dx_add_entry_warningthttp:https://github.com/knsv/mermaid//serverfault.com/questions/213119/how-can-i-redirect-an-already-running-processs-stdout-stderrtp://mdaines.github.io/viz.js/http://perthcharles.github.io/atom.xmlnSVMt*hhttp://neophob.com/2007/04/gnu-screen-cheat-sheet/nh"$m发布部署的问题，超过30台机器就比较慢/状态一ore g{ft的tps://www.mnot.net/d http://west 不对of the trww.ibm.com/developerworks/linux/library/l-mount-namespaces/index.htmlCPU-hungry batch processes.ttpcontainers://www.unixdaemon.net/pupAHCI就要right过时了？新接口标准NVMe浅析pet/puppet-3.7-file-function/**Barriers, Caches, Filesystems 深入浅出MeLuasos			理平台应该能提供丰富的功能函数，比如，map			      :mesos:
 http://www.infoq.com/cn/articles/analyse-mesos-part-02
 **** Docker Without Docker				     :docker:systemd:
 https://chimeracoder.github.io/docker-without-docker/#1
@@ -145,8 +149,7 @@ http://www.cnblogs.com/cenalulu/archive/2013/04/12/3016714.html
 http://www.powerxing.com/install-hadoop/
 **** It’s Time for Low Latency					    :latency:
 https://www.evernote.com/shard/s4/sh/da079cd2-c272-4b13-9a10-c70a213873b4/00985892a73d80a0
-**** Virtio: An I/O virtualization framework for Linux		    :virtual:
-http://www.ibm.com/developerworks/library/l-virtio/
+
 *** Oct
 **** Using imagemagick, awk and kmeans to find dominant colors in images :color:
 http://javier.io/blog/en/2015/09/30/using-imagemagick-and-kmeans-to-find-dominant-colors-in-images.html
@@ -418,8 +421,7 @@ http://www.stuartcheshire.org/papers/NagleDelayedAck/
 *** Apr
 ****  I stared into the fontconfig, and the fontconfig stared back at me
 https://eev.ee/blog/2015/05/20/i-stared-into-the-fontconfig-and-the-fontconfig-stared-back-at-me/
-**** The Definitive Guide to Linux System Calls                       :linux:
-http://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/
+
 **** Linux Troubleshooting Cheatsheet: strace, htop, lsof, tcpdump, iftop & sysdig
 https://sysdig.com/blog/linux-troubleshooting-cheatsheet/
 **** Python Virtual Environments - a Primer
@@ -505,8 +507,6 @@ https://dom.as/2016/05/13/linux-memory-management-for-servers/
 https://www.nanog.org/sites/default/files/Paasch_Network_Support.pdf
 **** 10 Articles Every Programmer Must Read
 http://javarevisited.blogspot.com/2014/05/10-articles-every-programmer-must-read.html
-**** Monitoring and Tuning the Linux Networking Stack: Receiving Data
-http://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/
 *** Jul
 **** Kent Overstreet is creating bcachefs - a next generation Linux filesystem
 https://www.patreon.com/bcachefs
@@ -545,12 +545,6 @@ https://blog.cloudflare.com/bpf-the-forgotten-bytecode/
      http://events.linuxfoundation.org/sites/events/files/slides/tracing-linux-ezannoni-linuxcon-ja-2015_0.pdf
 **** JIT native code generation for TensorFlow computation graphs using Python and LLVM
 http://blog.christianperone.com/2016/08/jit-native-code-generation-for-tensorflow-computation-graphs-using-python-and-llvm/
-**** Virtio networking: A case study of I/O paravirtualization :linux:kernel:network:
-http://lettieri.iet.unipi.it/virtualization/io-paravirtualization-tour.pdf
-**** virtio: Towards a De-Facto Standard For Virtual I/O Devices
-http://ozlabs.org/~rusty/virtio-spec/virtio-paper.pdf
-**** Obscure Ethernet for $200 please, Alex: The Ethernet PAUSE frame
-http://jeffq.com/blog/the-ethernet-pause-frame/
 *** Sep
 **** [线上问题] Nginx与Tomcat、Client之间请求的长连接配置不一致问题分析解决 :kee:
 http://bert82503.iteye.com/blog/2152613
@@ -606,8 +600,19 @@ http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-fr
 http://www.unixdaemon.net/puppet/puppet-3.7-file-function/
 **** Hadoop YARN中内存和CPU两种资源的调度和隔离
 http://dongxicheng.org/mapreduce-nextgen/hadoop-yarn-memory-cpu-scheduling/
-* blog
+**** 大数据框架对比：Hadoop、Storm、Samza、Spark和Flink
+http://www.infoq.com/cn/articles/hadoop-storm-samza-spark-flink
+**** AHCI就要过时了？新接口标准NVMe浅析
+http://diy.pconline.com.cn/611/6111798_all.html
+*** Dec
+**** Why do forked processes sometimes appear with brackets [] around their name in ps? 
+http://unix.stackexchange.com/questions/110595/why-do-forked-processes-sometimes-appear-with-brackets-around-their-name-in-p
 
+** 2017
+*** Jan
+**** Sendfile (a system call for web developers to know about!)
+https://jvns.ca/blog/2016/01/23/sendfile-a-new-to-me-system-call/
+* blog
 ** Individuals
 *** Axb的自我修养
 http://blog.2baxb.me/
@@ -615,13 +620,17 @@ http://blog.2baxb.me/
 http://huoding.com/
 *** nixCraft
 http://www.cyberciti.biz/
-
+*** mark nottingham
+https://www.mnot.net
+*** edsionte's TechBlog                                        :linux:kernel:
+http://edsionte.com/techblog/
 ** Companys
 *** cloudflare blog
 https://blog.cloudflare.com/
 *** unitedstack
 https://www.ustack.com/blog/
-
+*** CDN Blog - News, Tips & How-To
+http://www.cdnplanet.com/blog/
 ** Organizations
 *** Linux Audit - Linux security: Auditing, Hardening and Compliance
 http://linux-audit.com/
@@ -637,9 +646,80 @@ http://linux-audit.com/
 
 *** Queueing in the Linux Network Stack
 https://www.coverfire.com/articles/queueing-in-the-linux-network-stack/
+
+*** 内核中拥塞窗口初始值对http性能的影响分析
+http://simohayha.iteye.com/blog/709955
+
+*** tcpprobe, observe the TCP flow with kprobes
+http://perthcharles.github.io/2014/12/19/tcp-probe-intro/
+
+*** NET_DROP_MONITOR: Monitoring packet loss in the Linux kernel
+http://www.draconyx.net/articles/net_drop_monitor-monitoring-packet-loss-in-the-linux-kernel.html
+
+*** dropwatch 网络协议栈丢包检查利器
+http://blog.yufeng.info/archives/2497
+
+*** Networking in the Linux Kernel
+https://wiki.openwrt.org/doc/networking/praxis
+
+*** Linux Kernel Networking by Rami Rosen 2007
+http://www.haifux.org/lectures/172/netLec.pdf
+
+*** Monitoring and Tuning the Linux Networking Stack: Receiving Data
+http://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/
+
+*** Illustrated Guide to Monitoring and Tuning the Linux Networking Stack: Receiving Data
+https://blog.packagecloud.io/eng/2016/10/11/monitoring-tuning-linux-networking-stack-receiving-data-illustrated/
+
+*** Virtio networking: A case study of I/O paravirtualization :linux:kernel:network:
+http://lettieri.iet.unipi.it/virtualization/io-paravirtualization-tour.pdf
+
+*** 10 Gbit Hardware Packet Filtering Using Commodity Network Adapters
+http://www.ntop.org/products/packet-capture/pf_ring/hardware-packet-filtering/
+
+*** Linux kernel features for high-speed networking                     :rss:
+http://syuu.dokukino.com/2013/05/linux-kernel-features-for-high-speed.html
+
+*** Intel Ethernet Flow Director (Fortville) Video
+http://connectedsocialmedia.com/13463/intel-ethernet-flow-director-fortville-video/
+** security
+*** Auditd - Linux 服务器安全审计工具 
+https://linux.cn/article-4907-1.html
+*** Linux 用户空间审计系统
+http://os.51cto.com/art/201205/337496_all.htm
+*** Chapter 7. System Auditing
+https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Security_Guide/chap-system_auditing.html
 ** Misc
 *** Linux kernel development
 https://github.com/0xAX/linux-insides/blob/master/Misc/contribute.md
+*** Tutorial - Write a System Call
+https://brennan.io/2016/11/14/kernel-dev-ep3/
+
+*** What is the meaning of "ext[3/4]_dx_add_entry: Directory index full!"? 
+https://access.redhat.com/solutions/29894
+
+*** Network Diagnostic Tools
+https://wiki.centos.org/Events/Dojo/Bangalore2014?action=AttachFile&do=get&target=Network-jkalliyat.pdf
+*** The Definitive Guide to Linux System Calls                      :syscall:
+http://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/
+* Network
+** Tcp
+*** 浅谈TCP优化
+http://huoding.com/2013/11/21/299
+*** TCP Window Size Scaling
+https://networklessons.com/ip-routing/tcp-window-size-scaling/
+*** Linux Kernel 4.9 中的 BBR 算法与之前的 TCP 拥塞控制相比有什么优势？
+https://www.zhihu.com/question/53559433/answer/135903103
+*** TCP BBR算法学习笔记（1）
+http://www.jianshu.com/p/08eab499415a
+*** TCP拥塞控制算法 优缺点 适用环境 性能分析
+http://blog.csdn.net/zhangskd/article/details/6715751
+** Wireless
+*** 4.6Gbps Wi-Fi: How 60GHz wireless works—and should you use it?
+http://arstechnica.com/gadgets/2016/12/802-11ad-wifi-guide-review/
+** Phy
+*** Obscure Ethernet for $200 please, Alex: The Ethernet PAUSE frame
+http://jeffq.com/blog/the-ethernet-pause-frame/
 
 * Virtualization
 ** network
@@ -649,23 +729,66 @@ http://vincent.bernat.im/en/blog/2012-multicast-vxlan.html
 http://www.flockport.com/flockport-labs-lxc-and-vxlan/
 *** Enhanced VXLAN: Who Needs Multicast?
 http://adamraffe.com/2013/06/24/enhanced-vxlan-who-needs-multicast/
+*** TCP Tuning and Network Troubleshooting                             :cwnd:
+http://www.onlamp.com/pub/a/onlamp/2005/11/17/tcp_tuning.html
+** Container
+**** Finally, run systemd containers without privilege !!!           :docker:
+http://website-humblec.rhcloud.com/finally-run-systemd-containers-without-privilege/
+**** rkt vs other projects
+https://coreos.com/rkt/docs/latest/rkt-vs-other-projects.html
+**** Borg, Omega, and Kubernetes Lessons learned from three container-management systems over a decade
+http://queue.acm.org/detail.cfm?id=2898444
+**** Kubernetes: a platform for automating deployment, scaling, and operations
+http://www.slideshare.net/BrianGrant11/wso2con-us-2015-kubernetes-a-platform-for-automating-deployment-scaling-and-operations
+**** A tale of two clusters: Mesos and YARN
+https://www.oreilly.com/ideas/a-tale-of-two-clusters-mesos-and-yarn
+**** Gracefully Stopping Docker Containers
+https://www.ctl.io/developers/blog/post/gracefully-stopping-docker-containers/
+**** Applying mount namespaces
+http://www.ibm.com/developerworks/linux/library/l-mount-namespaces/index.html
+**** Linux Containers: Parallels, LXC, OpenVZ, Docker and More
+https://aucouranton.com/2014/06/13/linux-containers-parallels-lxc-openvz-docker-and-more/
+** Misc
+*** virtio: Towards a De-Facto Standard For Virtual I/O Devices
+http://ozlabs.org/~rusty/virtio-spec/virtio-paper.pdf
+*** Virtio: An I/O virtualization framework for Linux               :virtual:
+http://www.ibm.com/developerworks/library/l-virtio/
+
+* Distribution
+**  Consistency
+*** 分布式一致性论文阅读阶段性小结
+http://blog.fnil.net/blog/ac1fa10ff9b2404ed0b91bdfaf76a87d/
+* AI
+** Deep Learning
+
+*** 普通程序员如何转向AI方向 
+http://www.cnblogs.com/subconscious/p/6240151.html
 * Security
 ** ssl
 *** The Logjam Attack
 https://weakdh.org/
 **** Logjam: the latest TLS vulnerability explained
 https://blog.cloudflare.com/logjam-the-latest-tls-vulnerability-explained/
+*** architecture
+https://cloud.google.com/security/security-design/
 * Project
 *** OSv operating system
 http://osv.io/
-*** 
+*** Viz.js — Graphviz in your browser.
+http://mdaines.github.io/viz.js/
+*** mermaid Generation of diagram and flowchart from text in a similar manner as markdown
+https://github.com/knsv/mermaid
 
 * Command
 rsync -avzhP <[[user@]]host1:]directory1> <[[user@]]host2:]directory2>
+cat /proc/cpuinfo |grep 'processor\|core id\|physical id'|awk '{print $NF}'| sed 'N;N;s/\n/ /g'|awk '{print $2,$3,$1}'|sort -k1n -k2n -k3n
+http://serverfault.com/questions/213119/how-can-i-redirect-an-already-running-processs-stdout-stderr
 
 * References
 ** lua-users.org							:lua:
 http://lua-users.org/
+** GNU Screen cheat-sheet
+http://neophob.com/2007/04/gnu-screen-cheat-sheet/
 * Font & Ideogram 
 ** What's new in Unicode 9.0 ?
 http://babelstone.blogspot.com/2016/01/whats-new-in-unicode-90.html
