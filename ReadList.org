@@ -8,8 +8,9 @@ http://www.cnblogs.com/ggjucheng/archive/2012/01/14/2322659.html
 [[http://correl.phoenixinquis.net/2014/11/25/getting-organized-with-org-mode.html]]
 **** 翻译：理解TCP/IP网络栈&编写网络应用 		 :network:kernel:tcp:
 http://blog.2baxb.me/archives/1174
-http://blog.2baxb.me/archives/119fly0
-*wahausuire applications to provide feamazingo利用率这一点上，又涌现出许多新的基于丢包反馈的TCP协议改进，这其中包括HSTCP、STCP、BIC-TCP、CUBIC和H-TCP。m/
+http://blog.2baxb.me/archives/119flandtsed 他没人维护了Hsys QTFCQK6290005 ctlowhttps://jpetazzo.github.io/2015/01/13/docker-mount-dynamic-volumes/ is GNU `yes` so fast?to run Spanning Tree Protocol (STP) that calculates minimum spanning tree, preventing loops o e vic分ry Limit支持了，但是思考再三还是暂时t h调用malloc的时候会返回ttp://www.noe 	securitydataproc-49-5678  llinux.net/?p=204a page from memory a when they0
+*wahkiipup接下来进入petce, or other seemingly-minor tweaks—we would be remiss to rely solely Audit and Namespaces, future in
+Containerson isolated unit tests to verify these settings. So, we developed tooling to monitor the ACS and IOMMU settings in productinst will hopefully serve as a reference to anyone lookingg tool that can run on an end host or aue Best of Both Worlds with Queue Ssuire applications to provide feamazingo利用率这一点上，又涌现出许多新的基于丢包反馈的TCP协议改进，这其中包括HSTCP、STCP、BIC-TCP、CUBIC和H-TCP。m/
 *** nixCraft
 http://www.cyberciti.biz/
 *** mark nottingham
@@ -35,8 +36,10 @@ http://www.linux-magazine.com/Online/Features/Qemu-and-the-Kernel
 http://blog.scottlowe.org/2015/05/06/quick-intro-lxd/
 **** Optimize Python with Closures			:python:optimization:
 http://tech.magnetic.com/2015/05/optimize-python-with-closures.html
-**** 关于Ceph现状与未来的一些思考				       :ceph:
-https://www.ustack.com/blog/sikao/
+**** 关于Ceph现状与未来的一些思考				       :cephLinuxhWdue to lack ohaMulyou weird make invoctiple-Line Records
+
+tttps://www.stationx.net/nmap-cheat-sheet/ DePbuild and scale woR)JQUOTA.lay Ay changed the OS world, whereas Solaris is going to die. Even today, the design and usage of DTrace are still elegant and outstanding, but nobody could prevent the trend of Open Source.ccounting:
+https://whttps://fedoraproject.org/wiki/How_to_use_kdump_to_debug_k没遇到错误(ernel_crashesww.ustack.com/blog/sikao/
 **** DockOne技术分享（二）：集群规模下日志处理和网络方案	     :docker:
 http://dockone.io/article/355
 **** Static Linking Considered Harmful				       :link:
@@ -153,8 +156,7 @@ https://www.evernote.com/shard/s4/sh/da079cd2-c272-4b13-9a10-c70a213873b4/009858
 *** Oct
 **** Using imagemagick, awk and kmeans to find dominant colors in images :color:
 http://javier.io/blog/en/2015/09/30/using-imagemagick-and-kmeans-to-find-dominant-colors-in-images.html
-**** Pushing the Limits of Kernel Networking			    :network:
-http://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/
+
 **** A PATTERN FOR OPTIMIZING GO					 :go:
 http://blog.signalfx.com/a-pattern-for-optimizing-go
 **** Do not let your CDN betray you: Use Subresource Integrity		:web:
@@ -612,6 +614,178 @@ http://unix.stackexchange.com/questions/110595/why-do-forked-processes-sometimes
 *** Jan
 **** Sendfile (a system call for web developers to know about!)
 https://jvns.ca/blog/2016/01/23/sendfile-a-new-to-me-system-call/
+*** Feb
+**** Pretty printing JSON in Vim
+https://pascalprecht.github.io/2014/07/10/pretty-print-json-in-vim/
+*** Mar
+**** 浅析 Linux 初始化 init 系统，第 1 部分: sysvinit
+https://www.ibm.com/developerworks/cn/linux/1407_liuming_init1/index.html
+**** 浅析 Linux 初始化 init 系统，第 2 部分: UpStart
+http://www.ibm.com/developerworks/cn/linux/1407_liuming_init2/
+**** 浅析 Linux 初始化 init 系统，第 3 部分: Systemd
+https://www.ibm.com/developerworks/cn/linux/1407_liuming_init3/index.html
+**** Zone reclaim mode                                         :linux:sysctl:
+https://informixdba.wordpress.com/2015/10/16/zone-reclaim-mode/
+**** The MySQL “swap insanity” problem and the effects of the NUMA architecture
+https://blog.jcole.us/2010/09/28/mysql-swap-insanity-and-the-numa-architecture/
+**** NUMA (Non-Uniform Memory Access): An Overview
+http://queue.acm.org/detail.cfm?id=2513149
+**** A Good Vimrc
+https://dougblack.io/words/a-good-vimrc.html
+**** Coding for SSDs – Part 1: Introduction and Table of Contents
+http://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/
+**** 配置 OOM Killer 自动终止内存泄露进程
+http://www.noellinux.net/?p=204
+**** Cgroup - Linux 的资源隔离
+https://www.v2ex.com/member/jerry017cn/topics
+*** May
+**** Linux OOM killer
+https://segmentfault.com/a/1190000008268803
+**** How do I get the total CPU usage of an application from /proc/pid/stat?
+https://stackoverflow.com/questions/16726779/how-do-i-get-the-total-cpu-usage-of-an-application-from-proc-pid-stat
+*** Jun
+**** Linux utils that you might not know
+http://shiroyasha.io/coreutils-that-you-might-not-know.html
+**** How is GNU `yes` so fast?
+https://www.reddit.com/r/unix/comments/6gxduc/how_is_gnu_yes_so_fast/
+**** Learn X in Y minutes
+https://learnxinyminutes.com/docs/shutit/
+**** PCIe 4.0 will be twice as fast as today's slots
+https://www.engadget.com/2017/06/09/pcie-4-0-twice-as-fast/
+**** Using pseudo-terminals (pty) to control interactive programs
+http://rachid.koucha.free.fr/tech_corner/pty_pdip.html
+**** A few things I've learned about Kubernetes
+https://jvns.ca/blog/2017/06/04/learning-about-kubernetes/
+**** Cgroup namespace
+http://hustcat.github.io/cgroup-namespace/
+**** Slab allocators in the Linux Kernel: SLAB, SLOB, SLUB
+https://events.linuxfoundation.org/sites/events/files/slides/slaballocators.pdf
+**** Attach a volume to a container while it is running
+https://jpetazzo.github.io/2015/01/13/docker-mount-dynamic-volumes/
+
+*** Jul
+
+**** My Arch Linux Setup with Plasma 5                             :kde:arch:
+https://sadanand-singh.github.io/posts/completesetuparchplasma/
+
+**** Exploiting the Linux kernel via packet sockets
+https://googleprojectzero.blogspot.jp/2017/05/exploiting-linux-kernel-via-packet.html
+
+**** Dirty COW and why lying is bad even if you are the Linux kernel
+https://chao-tic.github.io/blog/2017/05/24/dirty-cow
+
+**** Buffer IO的throttle问题
+http://hustcat.github.io/blkcg-buffered-io/
+
+**** stressコマンドの使い方
+http://qiita.com/hana_shin/items/b1d8cd559d1a326f4d42
+
+**** Linux Containers Internals (Part I)
+http://rabbitstack.github.io/operating%20systems/linux-containers-internals-part-i/
+
+**** Docker Inspect Template Magic
+http://container-solutions.com/docker-inspect-template-magic/
+
+**** Linux tracing systems & how they fit together
+https://jvns.ca/blog/2017/07/05/linux-tracing-systems/
+
+**** How To Find Out How Long A Process Has Been Running In Linux
+https://www.ostechnix.com/find-long-process-running-linux/
+
+**** How Wi-Fi Works
+http://www.verizoninternet.com/bookmark/how-wifi-works/
+
+**** How to clear journalctl
+https://unix.stackexchange.com/questions/139513/how-to-clear-journalctl
+
+*** Aug
+
+**** Shell Scripts Matter                                              :bash:
+https://dev.to/thiht/shell-scripts-matter
+
+**** Docker Reference Architecture: Designing Scalable, Portable Docker Container Networks
+https://success.docker.com/Architecture/Docker_Reference_Architecture%3A_Designing_Scalable%2C_Portable_Docker_Container_Networks
+
+**** How to use kdump to debug kernel crashes
+https://fedoraproject.org/wiki/How_to_use_kdump_to_debug_kernel_crashes
+
+**** 内核调试工具 — kdump & crash 
+http://blog.csdn.net/zhangskd/article/details/38084337
+
+**** Linux Delay Accounting
+https://andrestc.com/post/linux-delay-accounting/
+
+**** 10 Tips for Writing Better Code
+https://cdiggins.github.io/blog/programming-tips.html
+
+
+*** Sep
+
+**** Deprecated Linux networking commands and their replacements
+https://dougvitale.wordpress.com/2011/12/21/deprecated-linux-networking-commands-and-their-replacements/
+
+**** How to disable IPv6 in Linux?
+https://www.blackmoreops.com/2015/08/04/how-to-disable-ipv6-in-linux/
+
+**** What Happens Inside a 100-hop IPv6 Wireless Mesh Network?
+http://www.thingsquare.com/blog/articles/100-hops-ipv6-mesh/
+
+**** Welcome to the World of Software Defined Radio
+http://www.robertputt.co.uk/welcome-to-the-world-of-software-defined-radio.html
+
+*** Oct
+
+**** Debugging Linux Kernel with QEMU
+https://unix.stackexchange.com/questions/61122/debugging-linux-kernel-with-qemu
+
+**** Debugging kernel and modules via gdb
+https://www.kernel.org/doc/html/latest/dev-tools/gdb-kernel-debugging.html
+
+**** Build Linux Kernel and Live Debugging
+http://accelazh.github.io/kernel/Build-Linux-Kernel-and-Live-Debugging
+
+**** vim-galore
+https://github.com/mhinz/vim-galore
+
+**** Linux Perf Tools Tips
+http://oliveryang.net/2016/07/linux-perf-tools-tips/#327-error-probe-overhead-exceeded-threshold
+
+**** Reasons Kubernetes is cool
+https://jvns.ca/blog/2017/10/05/reasons-kubernetes-is-cool/
+
+**** Filesystem error handling
+https://danluu.com/filesystem-errors/
+
+**** Ext4 Project Quota磁盘配额使用介绍
+http://blog.csdn.net/luckyapple1028/article/details/75754591
+
+**** OverlayFs wik
+https://github.com/amir73il/overlayfs/wiki
+
+**** Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
+     https://github.com/kelseyhightower/kubernetes-the-hard-way
+
+**** Understanding user namespaces
+http://man7.org/conf/osseu2017/understanding_user_namespaces-OSS.eu-2017-Kerrisk.pdf
+
+**** Nmap Cheat Sheet
+https://www.stationx.net/nmap-cheat-sheet/
+
+*** Nov
+**** ANALYZING DOCKER CONTAINER PERFORMANCE WITH NATIVE TOOLS
+https://crate.io/a/analyzing-docker-container-performance-native-tools/
+**** Memory inside Linux containers
+https://fabiokung.com/2014/03/13/memory-inside-linux-containers/
+**** AWK - Multiple-Line Records
+https://www.gnu.org/software/gawk/manual/html_node/Multiple-Line.html
+**** MY OPINION ON GO
+https://dpc.pw/blog/2016/09/my-opinion-on-go/
+**** Perfect locality and three epic SystemTap scripts
+https://blog.cloudflare.com/perfect-locality-and-three-epic-systemtap-scripts
+**** eBPF 简史
+https://www.ibm.com/developerworks/cn/linux/l-lo-eBPF-history/index.html
+**** eBPF, part 2: Syscall and Map Types
+https://ferrisellis.com/posts/ebpf_syscall_and_maps/
 * blog
 ** Individuals
 *** Axb的自我修养
@@ -643,7 +817,7 @@ http://linux-audit.com/
 *** userspace network stacks
 - Running the kernel in library mode :: http://lwn.net/Articles/639333/
 - Library Operating System for Linux  :: http://www.slideshare.net/hajimetazaki/library-operating-system-for-linux-netdev01
-
+- Why do we use the Linux kernel's TCP stack? :: http://jvns.ca/blog/2016/06/30/why-do-we-use-the-linux-kernels-tcp-stack/
 *** Queueing in the Linux Network Stack
 https://www.coverfire.com/articles/queueing-in-the-linux-network-stack/
 
@@ -665,8 +839,13 @@ https://wiki.openwrt.org/doc/networking/praxis
 *** Linux Kernel Networking by Rami Rosen 2007
 http://www.haifux.org/lectures/172/netLec.pdf
 
-*** Monitoring and Tuning the Linux Networking Stack: Receiving Data
+*** Monitoring and Tuning the Linux Networking Stack: Receiving Data     :rx:
 http://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/
+
+*** Monitoring and Tuning the Linux Networking Stack: Sending Data       :tx:
+https://blog.packagecloud.io/eng/2017/02/06/monitoring-tuning-linux-networking-stack-sending-data/
+*** Navigating the Linux kernel network stack: receive path              :rx:
+http://epickrram.blogspot.com/2016/05/navigating-linux-kernel-network-stack.html
 
 *** Illustrated Guide to Monitoring and Tuning the Linux Networking Stack: Receiving Data
 https://blog.packagecloud.io/eng/2016/10/11/monitoring-tuning-linux-networking-stack-receiving-data-illustrated/
@@ -682,6 +861,33 @@ http://syuu.dokukino.com/2013/05/linux-kernel-features-for-high-speed.html
 
 *** Intel Ethernet Flow Director (Fortville) Video
 http://connectedsocialmedia.com/13463/intel-ethernet-flow-director-fortville-video/
+
+*** Linux Kernel Networking by Raoul Rivas 2006                          :tx:
+http://web.engr.illinois.edu/~caesar/courses/CS598.S11/slides/raoul_kernel_slides.pdf
+
+*** LinuxCon 2015 Linux Kernel Networking Walkthrough
+http://www.slideshare.net/ThomasGraf5/linuxcon-2015-linux-kernel-networking-walkthrough
+
+*** Getting the Best of Both Worlds with Queue Splitting (Bifurcated Driver)
+http://rhelblog.redhat.com/2015/10/02/getting-the-best-of-both-worlds-with-queue-splitting-bifurcated-driver/
+*** Pushing the Limits of Kernel Networking                         :network:
+http://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/
+*** Snabb Switch: kernel-bypass networking illustrated               :bypass:
+https://github.com/lukego/blog/issues/13
+*** User Space Networking Fuels NFV Performance                      :bypass:
+https://software.intel.com/en-us/blogs/2015/06/12/user-space-networking-fuels-nfv-performance#scratch
+*** Diagnosing networking issues in the Linux Kernel             :monitoring:
+https://code.mixpanel.com/2015/03/26/diagnosing-networking-issues-in-the-linux-kernel/
+*** TUN/TAP devices on Linux
+http://recolog.blogspot.com/2016/06/tuntap-devices-on-linux.html
+*** Linux 上虚拟网络与真实网络的映射                                 :bridge:
+http://www.ibm.com/developerworks/cn/linux/1312_xiawc_linuxvirtnet/
+*** Bridge vs Macvlan                                                :bridge:
+http://hicu.be/bridge-vs-macvlan
+***  网络数据包收发流程(一)：从驱动到协议栈
+http://blog.chinaunix.net/uid-24148050-id-464587.html
+*** Linux Bridge - how it works
+http://goyalankit.com/blog/linux-bridge
 ** security
 *** Auditd - Linux 服务器安全审计工具 
 https://linux.cn/article-4907-1.html
@@ -689,6 +895,11 @@ https://linux.cn/article-4907-1.html
 http://os.51cto.com/art/201205/337496_all.htm
 *** Chapter 7. System Auditing
 https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Security_Guide/chap-system_auditing.html
+*** Audit and Namespaces, future in Containers
+http://events.linuxfoundation.org/sites/events/files/slides/lss-2016-audit-namespaces.pdf
+*** Audit, namespaces, and containers
+https://lwn.net/Articles/699819/
+
 ** Misc
 *** Linux kernel development
 https://github.com/0xAX/linux-insides/blob/master/Misc/contribute.md
@@ -702,6 +913,13 @@ https://access.redhat.com/solutions/29894
 https://wiki.centos.org/Events/Dojo/Bangalore2014?action=AttachFile&do=get&target=Network-jkalliyat.pdf
 *** The Definitive Guide to Linux System Calls                      :syscall:
 http://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/
+** Memory
+*** Memory Resource Controller
+https://events.linuxfoundation.org/images/stories/slides/jls09/jls09_kamezawa.pdf
+*** Memory inside Linux containers
+https://fabiokung.com/2014/03/13/memory-inside-linux-containers/
+*** RHEL memory cgroup
+https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Resource_Management_Guide/sec-memory.html
 * Network
 ** Tcp
 *** 浅谈TCP优化
@@ -731,6 +949,7 @@ http://www.flockport.com/flockport-labs-lxc-and-vxlan/
 http://adamraffe.com/2013/06/24/enhanced-vxlan-who-needs-multicast/
 *** TCP Tuning and Network Troubleshooting                             :cwnd:
 http://www.onlamp.com/pub/a/onlamp/2005/11/17/tcp_tuning.html
+*** https://medium.com/@loginoff/debugging-a-docker-heisenbug-in-production-586ccb265f7c#.qcbgxybe1
 ** Container
 **** Finally, run systemd containers without privilege !!!           :docker:
 http://website-humblec.rhcloud.com/finally-run-systemd-containers-without-privilege/
@@ -748,6 +967,12 @@ https://www.ctl.io/developers/blog/post/gracefully-stopping-docker-containers/
 http://www.ibm.com/developerworks/linux/library/l-mount-namespaces/index.html
 **** Linux Containers: Parallels, LXC, OpenVZ, Docker and More
 https://aucouranton.com/2014/06/13/linux-containers-parallels-lxc-openvz-docker-and-more/
+**** 深入理解Docker ulimit
+http://dockone.io/article/522
+**** Docker Stacks and Attachable networks
+http://blog.alexellis.io/docker-stacks-attachable-networks/
+**** Deploy the Voting App on a Docker Swarm using Compose version 3
+https://medium.com/lucjuggery/deploy-the-voting-apps-stack-on-a-docker-swarm-4390fd5eee4#.k39lrin5b
 ** Misc
 *** virtio: Towards a De-Facto Standard For Virtual I/O Devices
 http://ozlabs.org/~rusty/virtio-spec/virtio-paper.pdf
@@ -763,6 +988,12 @@ http://blog.fnil.net/blog/ac1fa10ff9b2404ed0b91bdfaf76a87d/
 
 *** 普通程序员如何转向AI方向 
 http://www.cnblogs.com/subconscious/p/6240151.html
+* Communication
+** radio
+*** 永不消逝的电波（一）：无线电入门篇 
+http://www.freebuf.com/articles/wireless/77819.html
+*** Welcome to the World of Software Defined Radio
+https://www.robertputt.co.uk/2016/12/04/welcome-to-the-world-of-software-defined-radio/
 * Security
 ** ssl
 *** The Logjam Attack
@@ -771,6 +1002,10 @@ https://weakdh.org/
 https://blog.cloudflare.com/logjam-the-latest-tls-vulnerability-explained/
 *** architecture
 https://cloud.google.com/security/security-design/
+*** Fuzzing PCI express: security in plaintext
+https://cloudplatform.googleblog.com/2017/02/fuzzing-PCI-Express-security-in-plaintext.html-t 
+*** 密码学大事件！研究人员公布第一例SHA-1哈希碰撞实例
+https://zhuanlan.zhihu.com/p/25401383
 * Project
 *** OSv operating system
 http://osv.io/
@@ -778,7 +1013,12 @@ http://osv.io/
 http://mdaines.github.io/viz.js/
 *** mermaid Generation of diagram and flowchart from text in a similar manner as markdown
 https://github.com/knsv/mermaid
-
+*** netsniff-ng toolkit
+http://netsniff-ng.org/
+*** PF_RING High-speed packet capture, filtering and analysis.
+http://www.ntop.org/products/packet-capture/pf_ring/
+*** netmap - the fast packet I/O framework
+http://info.iet.unipi.it/~luigi/netmap/
 * Command
 rsync -avzhP <[[user@]]host1:]directory1> <[[user@]]host2:]directory2>
 cat /proc/cpuinfo |grep 'processor\|core id\|physical id'|awk '{print $NF}'| sed 'N;N;s/\n/ /g'|awk '{print $2,$3,$1}'|sort -k1n -k2n -k3n
@@ -794,3 +1034,5 @@ http://neophob.com/2007/04/gnu-screen-cheat-sheet/
 http://babelstone.blogspot.com/2016/01/whats-new-in-unicode-90.html
 ** The long, incredibly tortuous, and fascinating process of creating a Chinese font
 http://qz.com/522079/the-long-incredibly-tortuous-and-fascinating-process-of-creating-a-chinese-font/
+** Simply beautiful open source icons
+https://feathericons.com/
