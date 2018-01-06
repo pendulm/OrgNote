@@ -36,7 +36,9 @@ http://www.linux-magazine.com/Online/Features/Qemu-and-the-Kernel
 http://blog.scottlowe.org/2015/05/06/quick-intro-lxd/
 **** Optimize Python with Closures			:python:optimization:
 http://tech.magnetic.com/2015/05/optimize-python-with-closures.html
-**** 关于Ceph现状与未来的一些思考				       :cephLinuxhWdue to lack ohaMulyou weird make invoctiple-Line Records
+**** 关于Ceph现状与未来的一些思考				       :cephLinuxhg Beyhttp://www.webgraphviz.com/onhttps://linuxdevicedriver.hackpad.com/The-path-of-data-link-layerreceive-rdh6VtO4SNcd theWdhttp://rhelblog.redhat.com/ples include Virtual Machine Device Queues (V的o就行ryhttp://www.inoreader.com/all_articles
+
+uedirty_background_ratio to lack ohaMulyou weird make invoctiple-Line Records
 
 tttps://www.stationx.net/nmap-cheat-sheet/ DePbuild and scale woR)JQUOTA.lay Ay changed the OS world, whereas Solaris is going to die. Even today, the design and usage of DTrace are still elegant and outstanding, but nobody could prevent the trend of Open Source.ccounting:
 https://whttps://fedoraproject.org/wiki/How_to_use_kdump_to_debug_k没遇到错误(ernel_crashesww.ustack.com/blog/sikao/
@@ -718,6 +720,23 @@ https://andrestc.com/post/linux-delay-accounting/
 **** 10 Tips for Writing Better Code
 https://cdiggins.github.io/blog/programming-tips.html
 
+**** Intel® Virtualization Technology (Intel® VT)
+https://www.intel.com/content/www/us/en/virtualization/virtualization-technology/intel-virtualization-technology.html
+
+**** Intel® Resource Director Technology
+https://www.intel.com/content/www/us/en/architecture-and-technology/resource-director-technology.html
+
+**** AWS EC2 Virtualization 2017
+http://www.brendangregg.com/blog/2017-11-29/aws-ec2-virtualization-2017.html
+
+**** AWS EC2 Virtualization 2017
+http://www.brendangregg.com/blog/2017-11-29/aws-ec2-virtualization-2017.html
+
+**** How Netflix Tunes EC2 Instances for Performance
+https://www.slideshare.net/brendangregg/how-netflix-tunes-ec2-instances-for-performance
+
+**** Disable Transparent Hugepages
+https://blog.nelhage.com/post/transparent-hugepages/
 
 *** Sep
 
@@ -786,6 +805,32 @@ https://blog.cloudflare.com/perfect-locality-and-three-epic-systemtap-scripts
 https://www.ibm.com/developerworks/cn/linux/l-lo-eBPF-history/index.html
 **** eBPF, part 2: Syscall and Map Types
 https://ferrisellis.com/posts/ebpf_syscall_and_maps/
+**** dirty_ratio与dirty_background_ratio的区别
+https://feichashao.com/dirty_ratio_and_dirty_background_ratio/
+**** linux IO 内核参数调优 之 参数调节和场景分析
+http://backend.blog.163.com/blog/static/2022941262013112081215609/
+**** How to Use Nmap Script Engine (NSE) Scripts in Linux
+https://www.tecmint.com/use-nmap-script-engine-nse-scripts-in-linux/#
+**** JOB QUEUES IN GO
+https://www.opsdash.com/blog/job-queues-in-go.html
+**** Understanding Processes in Linux
+http://careers.directi.com/display/tu/Understanding+Processes+in+Linux
+**** 7 tools for analyzing performance in Linux with bcc/BPF
+https://opensource.com/article/17/11/bccbpf-performance
+**** Wake up and Shut Down Linux Automatically
+https://www.linux.com/learn/intro-to-linux/2017/11/wake-and-shut-down-linux-automatically
+**** HHKB 键盘布局配置方案
+https://bitmingw.com/2017/07/29/hhkb-keyboard-layout-configuration/
+*** Dec
+**** Catalog of error handling patterns in Go
+http://www.cirello.org/2017/12/catalog-error-handling-patterns-in-go
+**** The path of data-link layer(receive)
+https://linuxdevicedriver.hackpad.com/The-path-of-data-link-layerreceive-rdh6VtO4SNc
+
+** 2018
+*** Jan
+**** WebGraphviz is Graphviz in the Browser
+http://www.webgraphviz.com/
 * blog
 ** Individuals
 *** Axb的自我修养
@@ -1036,3 +1081,8 @@ http://babelstone.blogspot.com/2016/01/whats-new-in-unicode-90.html
 http://qz.com/522079/the-long-incredibly-tortuous-and-fascinating-process-of-creating-a-chinese-font/
 ** Simply beautiful open source icons
 https://feathericons.com/
+* Rss
+*** inoreader
+http://www.inoreader.com/all_articles
+*** 深蓝阅读
+http://bluereader.org/
