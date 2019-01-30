@@ -36,7 +36,7 @@ http://www.linux-magazine.com/Online/Features/Qemu-and-the-Kernel
 http://blog.scottlowe.org/2015/05/06/quick-intro-lxd/
 **** Optimize Python with Closures			:python:optimization:
 http://tech.magnetic.com/2015/05/optimize-python-with-closures.html
-**** 关于Ceph现状与未来的一些思考				       :cephLinuxhg Beyhttp://www.webgraphviz.com/onhttps://linuxdevicedriver.hackpad.com/The-path-of-data-link-layerreceive-rdh6VtO4SNcd theWdhttp://rhelblog.redhat.com/ples include Virtual Machine Device Queues (V的o就行ryhttp://www.inoreader.com/all_articles
+**** 关于Ceph现状与未来的一些思考				       :cephLinuxh杭州房https://github.com/dbohdan/structured-text-toolshttps://www.slideshare.net/ennael/kernel-recipes-2017-20-years-of-linux-virtual-memory-andrea-arcangeli产知识扫盲g Beyhttps://paper.seebug.org/506/hTen Things I Wish I’d Known AHow to Use Socks5 Proxy in Curlbout bashttp://www.webgraphviz.com/onhttps://linuxdevicedriver.hackpad.com/The-path-of-data-link-layerreceive-rdh6VtO4SNcd theWdhttp://rhelblog.redhat.com/ples include Virtual Machine Device Queues (V的o就行ryhttp://www.inoreader.com/all_articles
 
 uedirty_background_ratio to lack ohaMulyou weird make invoctiple-Line Records
 
@@ -831,6 +831,31 @@ https://linuxdevicedriver.hackpad.com/The-path-of-data-link-layerreceive-rdh6VtO
 *** Jan
 **** WebGraphviz is Graphviz in the Browser
 http://www.webgraphviz.com/
+**** Ten Things I Wish I’d Known About bash
+https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/
+*** Feb
+**** 如何通过TTL调试光猫
+https://paper.seebug.org/506/
+**** Explaining Docker Image IDs
+https://windsock.io/explaining-docker-image-ids/
+*** Mar
+**** 杭州房产知识扫盲
+https://houshanren.gitbooks.io/hangzhou_house_knowledge/content/
+**** How to Use Socks5 Proxy in Curl
+https://blog.emacsos.com/use-socks5-proxy-in-curl.html
+**** Kernel Recipes 2017 - 20 years of Linux Virtual Memory
+https://www.slideshare.net/ennael/kernel-recipes-2017-20-years-of-linux-virtual-memory-andrea-arcangeli
+**** LDD mmap and DMA
+http://www.xml.com/ldd/chapter/book/ch13.html
+  
+*** Apr
+**** A list of command line tools for manipulating structured text data
+https://github.com/dbohdan/structured-text-tools
+*** May
+**** How to Turn Vim into a Word Processor
+https://www.maketecheasier.com/turn-vim-word-processor/
+**** send_signal函数注解
+http://www.cnblogs.com/IrisZhou/p/3197050.html
 * blog
 ** Individuals
 *** Axb的自我修养
