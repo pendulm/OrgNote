@@ -1,0 +1,133 @@
+*  reading book
+** Computer Technology
+*** Java
+**** TODO Spring实战（第4版）
+     DEADLINE: <2019-01-26 Sat>
+**** Java 9模块化开发：核心原则与实践
+     :PROPERTIES:
+     :url:      https://www.amazon.cn/dp/B07F6Y9L4K
+     :pubdate:  2018年6月28日
+     :END:
+**** Java攻略：Java常见问题的简单解法
+     :PROPERTIES:
+     :url:      https://www.amazon.cn/dp/B07KW1L9Y8
+     :pubdate:  2018年8月1日
+     :END:
+**** 精通Java并发编程 第2版
+     :PROPERTIES:
+     :url:      https://www.amazon.cn/dp/B07HPY84KR/
+     :pubdate:  2018年10月1日
+     :END:
+*** Code style
+**** 架构整洁之道
+     :PROPERTIES:
+     :pubdate:  2018年9月1日
+     :url:      https://www.amazon.cn/gp/product/B07HN66S4D
+     :END:
+**** 代码整洁之道:程序员的职业素养
+     :PROPERTIES:
+     :pubdate:  2016年9月1日
+     :url:      https://www.amazon.cn/gp/product/B01LZJ8L9J
+     :END:
+*** Architecture
+**** 函数响应式领域建模
+     :PROPERTIES:
+     :url:      https://www.amazon.cn/gp/product/B077ZH9D74
+     :pubdate:  2018年10月1日
+     :END:
+**** UML和模式应用(原书第3版)
+     :PROPERTIES:
+     :url:      https://www.amazon.cn/gp/product/B00116WMSU/r
+     :pubdate:  2006年5月1日
+     :END:
+**** 设计模式 可复用面向对象软件的基础
+     :PROPERTIES:
+     :pubdate:  2007年1月1日
+     :url:      https://www.amazon.cn/gp/product/B001130JN8
+     :END:
+**** 实现领域驱动设计
+     :PROPERTIES:
+     :pubdate:  2014年3月1日
+     :url:      https://www.amazon.cn/gp/product/B00IYTVWA6/
+     :END:
+**** 领域驱动设计:软件核心复杂性应对之道
+     :PROPERTIES:
+     :url:      https://www.amazon.cn/gp/product/B01GZ6T12K
+     :pubdate:  2016年6月1日
+     :END:
+**** 重构:改善既有代码的设计
+     :PROPERTIES:
+     :url:      https://www.amazon.cn/gp/product/B011LPUB42/
+     :pubdate:  2015年8月1日
+     :END:
+*** SRE
+**** 基础设施即代码 云服务器管理
+     :PROPERTIES:
+     :pubdate:  2018年9月1日
+     :url:      https://www.amazon.cn/dp/B07GWXTWLX
+     :END:
+*** Big Data
+**** 大数据日知录:架构与算法
+     :PROPERTIES:
+     :pubdate:  2014年9月24日
+     :url:      https://www.amazon.cn/gp/product/B00NGW4EAG/
+     :END:
+**** Streaming Systems
+     :PROPERTIES:
+     :pubdate:  2018年7月27日
+     :url:      https://www.amazon.cn/dp/1491983876/
+     :END:
+*** Distribute System
+**** 他山之石(一)：Google论文、阿里、开源与云计算
+     :PROPERTIES:
+     :url:      https://www.atatech.org/articles/118481
+     :END:
+**** 他山之石(二)：深度探索分布式理论经典论文
+     :PROPERTIES:
+     :url:      https://www.atatech.org/articles/125562
+     :END:
+*** Other
+**** 软技能:代码之外的生存指南
+     :PROPERTIES:
+     :pubdate:  2016年8月1日
+     :url:      https://www.amazon.cn/dp/B01IB086H4/
+     :END:
+**** 软件架构师的12项修炼
+     :PROPERTIES:
+     :url:      https://www.amazon.cn/gp/product/B008407F3S/
+     :pubdate:  2012年5月31日
+     :END:
+**** professional-programming
+     :PROPERTIES:
+     :url:      https://github.com/charlax/professional-programming
+     :END:
+** Mind
+*** Thinking Model
+**** 系统化思维导论(25周年纪念版) 
+     :PROPERTIES:
+     :pubdate:  2015年1月1日
+     :url:      https://www.amazon.cn/gp/product/B00SLKVWEE/
+     :END:
+**** 成为技术领导者:掌握全面解决问题的方法
+     :PROPERTIES:
+     :url:      https://www.amazon.cn/dp/B00Z7D9JHK/
+     :pubdate:  2015年7月1日
+     :END:
+**** The Model Thinker: What You Need to Know to Make Data Work for You
+     :PROPERTIES:
+     :url:      https://www.amazon.com/Model-Thinker-What-Need-Know/dp/0465094627
+     :pubdate:  November 27, 2018
+     :END:
+* Online Course
+** Computer Science
+*** Distribute System
+**** 6.824: Distributed Systems Engineering
+     :PROPERTIES:
+     :url:      https://pdos.csail.mit.edu/6.824/schedule.html
+     :END:
+** Social Sciences
+*** Economics
+**** Model Thinking
+     :PROPERTIES:
+     :url:      https://www.coursera.org/learn/model-thinking
+     :END:

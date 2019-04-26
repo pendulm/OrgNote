@@ -1,0 +1,18 @@
+https://pdos.csail.mit.edu/6.824/schedule.html
+
+* Lecture 1: Introduction
+
+  https://pdos.csail.mit.edu/6.824/notes/l01.txt
+** Topic
+   - implementation
+   - performance
+   - fault tolerance
+   - consistency
+     Consistency and performance are enemies.
+   
+** MapReduce
+   MapReduce scales well
+   network was more slow than disk in 2004
+   MR requires them to be pure functions(Mapper/Reducer)
+   
+* Lab 1: MapReducen
