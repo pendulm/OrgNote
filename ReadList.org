@@ -2,3 +2,15 @@
 ** [[https://vincent.bernat.ch/en/blog/2017-linux-bridge-isolation][Proper isolation of a Linux bridge]]                   :vlan:kernel:network:
 ** [[https://blog.cloudflare.com/xdpcap/][xdpcap: XDP Packet Capture]]                           :ebpf:kernel:network:
 ** [[https://www.nginx.com/blog/sampling-requests-with-nginx-conditional-logging/][Sampling Requests with NGINX Conditional Logging]]
+** [[https://blog.csdn.net/zhangskd/article/details/21627963][数据包接收系列 — NAPI的原理和实现]]                         :network:kernel:
+** [[https://www.projectcalico.org/when-linux-conntrack-is-no-longer-your-friend/][When Linux conntrack is no longer your friend]]        :iptable:nat:network:
+** [[https://blog.csdn.net/dog250/article/details/89500153][不依赖OS编译器，不依赖库，用汇编/机器码直接编程]]      :binfmt:kernel:linux:
+** [[https://kkimdev.github.io/posts/2019/04/22/Rust-Compile-Time-Memory-Safety.html][Rust - Compile Time Memory Safety]]
+** [[https://blog.csdn.net/dog250/article/details/89642905][Linux C实现纯用户态抢占式多线程！]]         :kernel:signal:stack:coroutine:
+** [[https://blog.openshift.com/crictl-vs-podman/][Crictl Vs Podman]]                                               :container:
+** [[https://blog.csdn.net/dog250/article/details/89709706][Linux C实现用户态协作式多线程！]]                     :ucontext:coroutine:
+** [[https://fedoramagazine.org/mirror-your-system-drive-using-software-raid/][Mirror your System Drive using Software RAID]]               :linux:storage:
+** [[https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction][A Practical Introduction to Container Terminology]]                :usecase:
+** [[https://www.redhat.com/en/blog/container-tidbits-does-pets-vs-cattle-analogy-still-apply][Container Tidbits: Does The Pets vs. Cattle Analogy Still Apply?]] :cloud:infrastructure:
+** [[https://developers.redhat.com/blog/2016/12/01/installing-red-hat-container-development-kit-fedora/][Installing Red Hat Container Development Kit on Fedora]] :virtualization:vagrant:
+** TODO An eBPF overview, [[https://www.collabora.com/news-and-blog/blog/2019/04/05/an-ebpf-overview-part-1-introduction/][part I]] [[https://www.collabora.com/news-and-blog/blog/2019/04/15/an-ebpf-overview-part-2-machine-and-bytecode/][part II]]
