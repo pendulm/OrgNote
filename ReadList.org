@@ -13,4 +13,30 @@
 ** [[https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction][A Practical Introduction to Container Terminology]]                :usecase:
 ** [[https://www.redhat.com/en/blog/container-tidbits-does-pets-vs-cattle-analogy-still-apply][Container Tidbits: Does The Pets vs. Cattle Analogy Still Apply?]] :cloud:infrastructure:
 ** [[https://developers.redhat.com/blog/2016/12/01/installing-red-hat-container-development-kit-fedora/][Installing Red Hat Container Development Kit on Fedora]] :virtualization:vagrant:
+** [[https://docs.google.com/presentation/d/1maienHIl8FtCmTcx8QFb_ieM9ElDoOY1HrX8YnsxvRQ/edit?usp=sharing][Getting the most out of BuildKit]]                                  :docker:
+** [[https://fedoramagazine.org/check-storage-performance-with-dd/][Check storage performance owith dd]]                                 :linux:
+** [[https://blog.benjojo.co.uk/post/speed-of-bgp-network-propagation][The speed of BGP network propagation]]                                 :ref:
+** [[https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world/][Cloudflare architecture and how BPF eats the world]]        :linux:network:
+** [[https://github.com/qmonnet/sqreen-bpf/blob/master/sqreen-slides.pdf][An Introduction to BPF as a Monitoring Tool]]                :linux:network:
+** [[https://blog.cloudflare.com/ebpf-cant-count/][eBPF can't count?!]]
+** [[https://blog.jessfraz.com/post/why-open-source-firmware-is-important-for-security/][Why open source firmware is important for security]]                 :intel:
+** [[https://opensource.com/article/19/5/manage-access-control-lists-ansible][How to manage access control lists with Ansible]]                    :linux:
+** [[https://opensource.com/article/19/5/how-write-good-c-main-function][How to write a good C main function]]
+** [[https://www.infoq.com/news/2019/05/kubernetes-future/][Kubernetes Future: VMs, Containers, or Hypervisor?]]
+** [[https://sanctum.geek.nz/arabesque/better-bash-history/][Better Bash history]]                                             :readline:
+** [[https://blog.getambassador.io/kubecon-eu-2019-top-10-takeaways-123b5fcb30a8][KubeCon EU 2019: Top 10 Takeaways]]                        :k8s:cloudnative:
+** [[https://sanctum.geek.nz/arabesque/ssh-socks-and-curl/][SSH, SOCKS, and cURL]]                                   :commandline:proxy:
+** [[https://stackoverflow.com/questions/39739560/how-to-access-the-vm-created-by-dockers-hyperkit][How to access the VM created by docker's HyperKit?]]         :docker:screen:
+** [[http://crunchtools.com/files/2019/05/Choosing-the-right-container-base-image-for-your-application.pdf][CHOOSING THE RIGHT CONTAINER BASE IMAGE]]             :redhat:pdf:container:
+** [[http://crunchtools.com/files/2019/05/Linux-Container-Internals-2.0.pdf][LINUX CONTAINER INTERNALS]]                                    :redhat:pdf:
+** [[https://www.redhat.com/en/blog/understanding-random-number-generators-and-their-limitations-linux][Understanding random number generators, and their limitations, in Linux]] :kernel:
+** [[https://www.redhat.com/en/blog/world-domination-cgroups-rhel-8-welcome-cgroups-v2][World domination with cgroups in RHEL 8: welcome cgroups v2!]]      :redhat:
+** TODO [[https://www.redhat.com/en/blog/limits-compatibility-and-supportability-containers][The limits of compatibility and supportability with containers]] :docker:linux:syscall:
+** TODO [[https://arxiv.org/pdf/1901.01863.pdf][Beyond socket options: making the Linux TCP stack truly extensible]] :kernel:
+** TODO [[https://www.joshmcguigan.com/blog/shell-completions-pure-rust/][Shell Completions in Pure Rust]] 
+** TODO [[https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d][Has the Python GIL been slain?]]
+** TODO [[https://www.digitalocean.com/community/tutorial_series/an-introduction-to-selinux-on-centos-7][An Introduction to SELinux on CentOS 7]]
+** TODO [[https://blog.csdn.net/dog250/article/details/89790086][线程切换函数schedule的实现]]
+** TODO [[https://blog.csdn.net/dog250/article/details/88994927][关于Linux进程切换switch_to宏的一个细节(认识内联汇编)]]
+** TODO [[https://blog.csdn.net/dog250/article/details/89742140][彻底理解setjmp/longjmp并DIY一个简单的协程]]
 ** TODO An eBPF overview, [[https://www.collabora.com/news-and-blog/blog/2019/04/05/an-ebpf-overview-part-1-introduction/][part I]] [[https://www.collabora.com/news-and-blog/blog/2019/04/15/an-ebpf-overview-part-2-machine-and-bytecode/][part II]]
