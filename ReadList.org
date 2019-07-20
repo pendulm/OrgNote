@@ -22,6 +22,7 @@
 ** [[https://blog.jessfraz.com/post/why-open-source-firmware-is-important-for-security/][Why open source firmware is important for security]]                 :intel:
 ** [[https://opensource.com/article/19/5/manage-access-control-lists-ansible][How to manage access control lists with Ansible]]                    :linux:
 ** [[https://opensource.com/article/19/5/how-write-good-c-main-function][How to write a good C main function]]
+** [[https://medium.com/@deckarep/paradigms-of-rust-for-the-go-developer-210f67cd6a29][Paradigms of Rust for the Go developer]]
 ** [[https://www.infoq.com/news/2019/05/kubernetes-future/][Kubernetes Future: VMs, Containers, or Hypervisor?]]
 ** [[https://sanctum.geek.nz/arabesque/better-bash-history/][Better Bash history]]                                             :readline:
 ** [[https://blog.getambassador.io/kubecon-eu-2019-top-10-takeaways-123b5fcb30a8][KubeCon EU 2019: Top 10 Takeaways]]                        :k8s:cloudnative:
@@ -31,8 +32,24 @@
 ** [[http://crunchtools.com/files/2019/05/Linux-Container-Internals-2.0.pdf][LINUX CONTAINER INTERNALS]]                                    :redhat:pdf:
 ** [[https://www.redhat.com/en/blog/understanding-random-number-generators-and-their-limitations-linux][Understanding random number generators, and their limitations, in Linux]] :kernel:
 ** [[https://www.redhat.com/en/blog/world-domination-cgroups-rhel-8-welcome-cgroups-v2][World domination with cgroups in RHEL 8: welcome cgroups v2!]]      :redhat:
-** TODO [[https://www.redhat.com/en/blog/limits-compatibility-and-supportability-containers][The limits of compatibility and supportability with containers]] :docker:linux:syscall:
-** TODO [[https://arxiv.org/pdf/1901.01863.pdf][Beyond socket options: making the Linux TCP stack truly extensible]] :kernel:
+** [[https://www.redhat.com/en/blog/consistent-pkcs-11-support-red-hat-enterprise-linux-8][Consistent PKCS #11 support in Red Hat Enterprise Linux 8]]   :security:ssl:
+** [[https://www.redhat.com/en/blog/limits-compatibility-and-supportability-containers][The limits of compatibility and supportability with containers]] :docker:linux:syscall:
+** [[https://opensource.com/article/19/6/introduction-kubernetes-secrets-and-configmaps][An Introduction to Kubernetes Secrets and ConfigMaps]]                 :k8s:
+** [[https://opensource.com/article/19/6/bits-and-bytes-pki][https://opensource.com/article/19/6/bits-and-bytes-pki]]      :security:ssl:
+** [[https://www.redhat.com/en/blog/using-express-data-path-xdp-red-hat-enterprise-linux-8][Using the eXpress Data Path (XDP) in Red Hat Enterprise Linux 8]] :kernel:linux:network:
+** [[http://brooker.co.za/blog/2019/04/03/learning.html][Learning to build distributed systems]]
+** [[https://www.gcores.com/articles/110509][阻止文明倒塌：Jonathan Blow 在莫斯科 DevGAMM 上的演讲]]           :software:
+** [[https://fedoramagazine.org/rpm-packages-explained/][RPM packages explained]]
+** [[https://github.com/Pungyeon/clean-go-article][Clean Go Code]]                                                  :codestyle:
+** [[https://blog.golang.org/go2-next-steps][Next steps toward Go 2]]                                            :golang:
+** [[https://preslav.me/2019/07/09/adding-version-information-to-go-binaries/][Adding Version Information to Go Binaries]]                         :golang:
+** [[https://developers.redhat.com/blog/2019/07/05/how-to-store-large-amounts-of-data-in-a-program/][How to store large amounts of data in a program]]                       :C:
+** [[https://stripe.com/rcas/2019-07-10][Root cause analysis: significantly elevated error rates on 2019‑07‑10]] :postmortem:
+** [[https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/][Details of the Cloudflare outage on July 2, 2019]]              :postmortem:
+** [[https://hacks.mozilla.org/2019/07/add-ons-outage-post-mortem-result/][Add-Ons Outage Post-Mortem Result by firefox]]                  :postmortem:
+** [[https://blog.logrocket.com/5-es2019-features-you-can-use-today/][5 ES2019 features you can use today]]                           :javascript:
+** [[https://fedoramagazine.org/bond-wifi-and-ethernet-for-easier-networking-mobility/][Bond WiFi and Ethernet for easier networking mobility]]
+** todo [[https://arxiv.org/pdf/1901.01863.pdf][Beyond socket options: making the Linux TCP stack truly extensible]] :kernel:
 ** TODO [[https://www.joshmcguigan.com/blog/shell-completions-pure-rust/][Shell Completions in Pure Rust]] 
 ** TODO [[https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d][Has the Python GIL been slain?]]
 ** TODO [[https://www.digitalocean.com/community/tutorial_series/an-introduction-to-selinux-on-centos-7][An Introduction to SELinux on CentOS 7]]
