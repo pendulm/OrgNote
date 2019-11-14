@@ -49,7 +49,26 @@
 ** [[https://hacks.mozilla.org/2019/07/add-ons-outage-post-mortem-result/][Add-Ons Outage Post-Mortem Result by firefox]]                  :postmortem:
 ** [[https://blog.logrocket.com/5-es2019-features-you-can-use-today/][5 ES2019 features you can use today]]                           :javascript:
 ** [[https://fedoramagazine.org/bond-wifi-and-ethernet-for-easier-networking-mobility/][Bond WiFi and Ethernet for easier networking mobility]]
+** [[https://medium.com/justforfunc/why-are-there-nil-channels-in-go-9877cc0b2308][Why are there nil channels in Go?]]                         :pitfall:golang:
 ** todo [[https://arxiv.org/pdf/1901.01863.pdf][Beyond socket options: making the Linux TCP stack truly extensible]] :kernel:
+** [[https://grafana.com/blog/2019/07/24/how-a-production-outage-was-caused-using-kubernetes-pod-priorities/][How a Production Outage Was Caused Using Kubernetes Pod Priorities]] :postmortem:
+** [[https://www.redhat.com/en/blog/container-migration-podman-rhel][Container migration with Podman on RHEL]]
+** [[https://www.redhat.com/en/blog/using-iptables-nft-hybrid-linux-firewall][Using iptables-nft: a hybrid Linux firewall]]
+** [[https://fedoramagazine.org/how-rpm-packages-are-made-the-source-rpm/][How RPM packages are made: the source RPM]]
+** [[https://fedoramagazine.org/using-gns3-with-fedora/][Using GNS3 with Fedora]]                            :network:virtualization:
+** [[https://blog.arstercz.com/linux-%25E7%25B3%25BB%25E7%25BB%259F%25E5%25A6%2582%25E4%25BD%2595%25E5%25A4%2584%25E7%2590%2586%25E5%2590%258D%25E7%25A7%25B0%25E8%25A7%25A3%25E6%259E%2590/][Linux 系统如何处理名称解析]]                                          :dns:
+** [[https://blog.cloudflare.com/its-crowded-in-here/][It's crowded in here!]]                               :tcp:socket:linux:bpf:
+** [[https://multun.net/obscure-c-features.html][Some obscure C features (fr)]]
+** [[https://www.rootusers.com/25-useful-dnf-command-examples-for-package-management-in-linux/][25 Useful DNF Command Examples For Package Management In Linux]]
+** [[https://www.redhat.com/sysadmin/apache-yum-dnf-repo][Create an Apache-based YUM/DNF repository on Red Hat Enterprise Linux 8]]
+** [[https://www.digitalocean.com/community/tutorial_series/an-introduction-to-selinux-on-centos-7][An Introduction to SELinux on CentOS 7]]
+** [[https://www.redhat.com/sysadmin/leasing-ips-podman][Leasing routable IP addresses with Podman containers]]                :cni:
+** [[https://www.redhat.com/en/blog/bcc-tools-brings-dynamic-kernel-tracing-red-hat-enterprise-linux-81][bcc-tools brings dynamic kernel tracing to Red Hat Enterprise Linux 8.1]] :ebpf:
+** [[https://opensource.com/article/19/11/getting-started-postgresql][Getting started with PostgreSQL]]
+** [[https://www.maizure.org/projects/printf/][Tearing apart printf()]]
+** [[https://www.redhat.com/en/virtio-networking-series][Virtio-networking series]]                                          :redhat:
+** [[https://hacks.mozilla.org/2019/11/announcing-the-bytecode-alliance/][Announcing the Bytecode Alliance: Building a secure by default, composable future for WebAssembly]]
+** [[https://jacobian.org/2019/nov/11/python-environment-2020][My Python Development Environment, 2020 Edition]]
 ** TODO [[https://www.joshmcguigan.com/blog/shell-completions-pure-rust/][Shell Completions in Pure Rust]] 
 ** TODO [[https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d][Has the Python GIL been slain?]]
 ** TODO [[https://www.digitalocean.com/community/tutorial_series/an-introduction-to-selinux-on-centos-7][An Introduction to SELinux on CentOS 7]]
