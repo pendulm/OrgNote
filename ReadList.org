@@ -69,6 +69,10 @@
 ** [[https://www.redhat.com/en/virtio-networking-series][Virtio-networking series]]                                          :redhat:
 ** [[https://hacks.mozilla.org/2019/11/announcing-the-bytecode-alliance/][Announcing the Bytecode Alliance: Building a secure by default, composable future for WebAssembly]]
 ** [[https://jacobian.org/2019/nov/11/python-environment-2020][My Python Development Environment, 2020 Edition]]
+** [[https://paper.seebug.org/1078/][代码分析引擎 CodeQL 初体验]]                                           :ast:
+** [[https://mirailabs.io/blog/multiarch-docker-with-buildx/][Using multi-arch Docker images to support apps on any architecture]]
+** [[https://www.redhat.com/en/blog/virtio-networking-first-series-finale-and-plans-2020][Virtio-networking: first series finale and plans for 2020]]
+** [[https://blog.vmsplice.net/2019/11/video-and-slides-available-for-virtio.html][Video and slides available for "virtio-fs: A Shared File System for Virtual Machines"]] :virtualization:
 ** TODO [[https://www.joshmcguigan.com/blog/shell-completions-pure-rust/][Shell Completions in Pure Rust]] 
 ** TODO [[https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d][Has the Python GIL been slain?]]
 ** TODO [[https://www.digitalocean.com/community/tutorial_series/an-introduction-to-selinux-on-centos-7][An Introduction to SELinux on CentOS 7]]
