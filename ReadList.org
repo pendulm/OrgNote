@@ -1,0 +1,106 @@
+** [[https://mjg59.dreamwidth.org/53968.html][Wifi deauthentication attacks and home security]]                 :security:
+** [[https://probablydance.com/2019/12/30/measuring-mutexes-spinlocks-and-how-bad-the-linux-scheduler-really-is/][Measuring Mutexes, Spinlocks and how Bad the Linux Scheduler Really is]] :lock:
+** [[https://www.realworldtech.com/forum/?threadid=189711&curpostid=189723][Linux on spinlock]]                                             :lock:linus:
+** [[https://matklad.github.io//2020/01/02/spinlocks-considered-harmful.html][Spinlocks Considered Harmful]]                                  :rust:lock:
+** [[https://www.thirtythreeforty.net/posts/2019/12/mastering-embedded-linux-part-2-hardware/][Mastering Embedded Linux, Part 2: Hardware]]                      :hardware:
+** [[https://lwn.net/Articles/808503/][A medley of performance-related BPF patches]]                   :kernel:bpf:
+** [[https://www.redhat.com/sysadmin/mastering-systemd][Mastering systemd: Securing and sandboxing applications and services]] :security:sysadmin:
+** [[https://developer.ibm.com/articles/j-zerocopy/][Efficient data transfer through zero copy]]                   :java:syscall:
+** [[https://stackoverflow.com/questions/9770125/zero-copy-with-and-without-scatter-gather-operations][Zero-copy with and without Scatter/Gather operations]]             :syscall:
+** [[https://blog.jse.li/posts/torrent/][Building a BitTorrent client from the ground up in Go]]     :golang:diy:p2p:
+** [[https://medium.com/a-journey-with-go/go-g0-special-goroutine-8c778c6704d8][Go: g0, Special Goroutine]]                                         :golang:
+** [[https://medium.com/a-journey-with-go/go-concurrency-scheduler-affinity-3b678f490488][Go: Concurrency & Scheduler Affinity]]                              :golang:
+** [[https://evertpot.com/h2-parallelism/][Performance testing HTTP/1.1 vs HTTP/2 vs HTTP/2 + Server Push for REST APIs]] :http:performance:
+** [[https://x86.lol/generic/2020/01/01/riscv-intro.html][RISC-V Stumbling Blocks]]                                   :riscv:hardware:
+** [[https://blog.scottlogic.com/2017/12/13/chip8-emulator-webassembly-rust.html][Writing a CHIP-8 emulator with Rust and WebAssembly]] :rust:webassembly:emulator:diy:
+** [[https://www.cockroachlabs.com/blog/go-file-size/][Why are my Go executable files so large?]]               :golang:d3:treemap:
+** [[https://flaviocopes.com/start-blog-with-hugo/][How to start a blog using Hugo]]                                  :hugo:web:
+** [[http://cliffle.com/p/dangerust/][Learn Rust the Dangerous Way]]                   :rust:tutorial:unsafe:simd:
+** TODO [[https://github.com/DoctorWkt/acwj][A Compiler Writing Journey]]                      :diy:tutorial:parser:
+** TODO [[https://douglasorr.github.io/2019-09-hash-vs-sort/article.html][Finding unique items - hash vs sort?]]
+** [[https://623637646.github.io/996.Leave/][逃离996]]                                                 :career:immigrate:
+** [[https://blog.acolyer.org/2020/01/08/ironies-of-automation/][Ironies of automation]]                                          :paper:sre:
+** TODO [[https://www.cnblogs.com/zhoujg/archive/2011/03/01/1968366.html][英语：漏屋-英语学习的真实方法及误区分析（转）]]
+** [[https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf][How to Read a Paper 2016]]                                         :paper:
+** [[https://paper.seebug.org/1110/][聊聊区块链中的几个技术点]]                                     :bitcoin:p2p:
+** [[https://paper.seebug.org/1108/][pwn 的艺术浅谈（一）：linux 栈溢出]]                           :exploit:elf:
+** [[https://paper.seebug.org/1109/][pwn的艺术浅谈（二）：linux堆相关]]                          :exploit:kernel:
+** [[https://developers.redhat.com/blog/2020/01/09/debugging-applications-within-red-hat-openshift-containers/][Debugging applications within Red Hat OpenShift containers]] :debug:container:gdb:
+** [[https://blog.cloudflare.com/accelerating-udp-packet-transmission-for-quic/][Accelerating UDP packet transmission for QUIC]]    :quic:socket:performance:
+** [[https://makecode.com/blog/arcade/general-release][MakeCode Arcade Released for General Availability!]]   :microsoft:education:
+** [[https://paper.seebug.org/1111/][物联网安全系列之远程破解 Google Home]]                :iot:security:exploit:
+** [[https://blog.csdn.net/dog250/article/details/103948307][x86_64处理器的指针赋值是原子操作吗？]]                     :c:cache:automic:
+** [[https://www.infoq.com/articles/kotlin-coroutines-bottom-up/][A Bottom-Up View of Kotlin Coroutines]]               :jvm:kotlin:coroutine:
+** [[https://www.redhat.com/en/blog/why-networkmanager-talking-staticredhatcom-find-out-bcc-tools][Why is NetworkManager talking to static.redhat.com? Find out with bcc-tools!]] :bcc:network:bpf:
+** [[https://www.infoq.com/news/2020/01/http-3-status/][The Status of HTTP/3]]                                           :http:quic:
+** [[https://emacs-china.org/t/topic/11536][如何＂严肃＂阅读一本书？]]                                  :learning:emacs:
+** [[https://github.blog/2020-01-13-highlights-from-git-2-25/][Highlights from Git 2.25]]                                     :git:feature:
+** [[https://peteris.rocks/blog/htop/][htop explained]]                                                      :htop:
+** [[https://eklitzke.org/bash-$%252A-and-$@][Bash $* and $@]]                                                     :shell:
+** [[https://geocar.sdf1.org/alloc.html][How to allocate memory]]                                             :alloc:
+** [[https://developers.redhat.com/blog/2020/01/15/installing-debugging-tools-into-a-red-hat-openshift-container-with-oc-inject/][Installing debugging tools into a Red Hat OpenShift container with oc-inject]] :openshift:container:systemtap:trace:sdt:
+** [[https://lwn.net/Articles/809545/][Scheduling for the Android display pipeline]]                      :android:
+** [[https://developers.redhat.com/blog/2020/01/20/mir-a-lightweight-jit-compiler-project/][MIR: A lightweight JIT compiler project]]       :jit:ruby:compiler:gcc:llvm:
+** [[https://abcdxyzk.github.io/blog/2020/01/07/KASLR/][KASLR 内核动态地址]]                                      :kernel:kaslr:arm:
+** [[https://colobu.com/2020/01/19/hack-go-interface/][有趣实验: hack go interface]]                        :go:interface:internal:
+** [[https://hev.cc/2908.html][GCC: Dump enabled optimization options]]                        :gcc:option:
+** [[https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b][DBLog: A Generic Change-Data-Capture Framework]]   :mysql:db:postgresql:cdc:
+** [[https://github.com/riscv/riscv-software-list][RISC-V Software Ecosystem Overview]]                       :toolchain:riscv:
+** [[https://www.electromaker.io/tutorial/blog/raspberry-pi-vpn-server][How to Make a Raspberry Pi VPN Server]]                     :vpn:raspberry:
+** [[https://x86.lol/generic/2019/07/04/kernel-entry.html][1001 Ways of Implementing a System Call]]                      :syscall:x86:
+** [[https://mp.weixin.qq.com/s/R3BZpYJrBPBI0DwbJYB0YA][调度系统设计精要]]                                 :go:kernel:scheduler:k8s:
+** [[https://pokfulamhku.com/whfy/][对疫情的结构性反思：谣言、官僚与国家主义]]                  :politics:think:
+** [[https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface][Standardizing WASI: A system interface to run WebAssembly outside the web]] :webassembly:wasi:
+** [[https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7][Predictive CPU isolation of containers at Netflix]]    :scheduler:container:
+** [[https://mr.gy/blog/snabb-xdp.html][How to XDP (with Snabb)]]                                    :xdp:bpf:snabb:
+** [[https://blog.redsift.com/labs/writing-bpf-code-in-rust/][Writing BPF code in Rust]]                                        :rust:bpf:
+** [[https://www.ctrl.blog/entry/systemd-opensmtpd-hardening.html][Limit the impact of a security intrusion with systemd security directives]] :systemd:
+** [[https://colobu.com/2020/02/21/ID-generator/][分布式ID生成方案]]                      :sequence:snowflake:dis:diistribute:
+** [[https://www.redhat.com/sysadmin/deeper-linux-chroot-jails][Taking a deeper dive into Linux chroot jails]]        :linux:chroot:yum:ssh:
+** [[https://blog.cloudflare.com/when-bloom-filters-dont-bloom/][When Bloom filters don't bloom]]              :cache:performance:linux:hash:
+** [[https://www.redhat.com/sysadmin/behind-scenes-podman][What happens behind the scenes of a rootless Podman container?]] :podman:buildah:
+** [[https://blog.openshift.com/self-hosted-load-balancer-for-openshift-an-operator-based-approach/][Self-hosted Load Balancer for OpenShift: an Operator Based Approach]] :openshift:k8s:ha:loadbalance:
+** [[https://developers.redhat.com/blog/2020/03/06/configure-and-run-a-qemu-based-vm-outside-of-libvirt/][Configure and run a QEMU-based VM outside of libvirt with virt-manager]] :qemu:libvirt:
+** [[https://feltrac.co/environment/2020/01/18/build-your-own-shell-completion.html][Hacking up your own shell completion]]                                :fish:
+** [[https://www.kuon.ch/post/2020-03-08-hsluv/][HSLuv, a developer friendly perceptual color space]]                 :color:
+** [[https://opensource.com/article/20/3/getting-started-emacs][Getting started with Emacs]]                                  :emacs:editor:
+** [[https://opensource.com/article/20/3/kubernetes-raspberry-pi-k3s][Run Kubernetes on a Raspberry Pi with k3s]]            :raspberry:k3s:k8s:
+** [[https://opensource.com/article/20/3/fish-shell][Drop Bash for fish shell to get beautiful defaults]]            :shell:fish:
+** [[https://www.redhat.com/en/blog/whats-new-red-hat-ceph-storage-4][What's new in Red Hat Ceph Storage 4: A Beast of a front end, default support for BlueStore, and Cockpit installer support]] :ceph:storage:
+** [[https://developers.redhat.com/blog/2020/03/10/how-to-run-containerized-workloads-securely-and-at-scale-with-fedora-coreos/][How to run containerized workloads securely and at scale with Fedora CoreOS]] :coreos:fedora:container:okd:
+** [[https://blog.openshift.com/500_pods_per_node/][OpenShift Scale: Running 500 Pods Per Node]]               :openshift:scale:
+** [[https://blog.cloudflare.com/how-replicated-secured-our-remote-dev-environment-with-cloudflare-access/][How Replicated Developers Develop Remotely]]                    :vpn:access:
+** [[https://developers.redhat.com/blog/2020/03/13/possible-issues-with-debugging-and-inspecting-compiler-optimized-binaries/][Possible issues with debugging and inspecting compiler-optimized binaries]] :compiler:optimize:
+** [[https://www.redhat.com/sysadmin/single-use-cron][Using at for single-use cron jobs in Linux]]c       :commandline:linux:cron:
+** [[http://www.chenshake.com/sd-card-introduce/][SD Card Introduce]]                                       :sdcard:raspberry:
+** [[https://www.servicemesher.com/blog/202003-k8s-scheduling-framework/][浅谈 Kubernetes Scheduling-Framework 插件的实现]]             :k8s:schedule:
+** [[https://www.redhat.com/sysadmin/speeding-container-buildah][Speeding up container image builds with Buildah]]    :buildah:dnf:container:
+** [[https://tonybai.com/2020/03/16/build-high-performance-object-storage-with-minio-part1-prototype/][使用minio搭建高性能对象存储-第一部分：原型]]          :storage:minio:golang:
+** [[https://blog.ipfire.org/post/why-not-wireguard][Why Not WireGuard]]                                :wireguard:network:linux:
+** [[https://fedoramagazine.org/control-the-firewall-at-the-command-line/][Control the firewall at the command line]]                 :fedora:firewall:
+** [[https://www.redhat.com/sysadmin/customizing-bash-shell][Customizing the Bash shell]]                                  :bash:history:
+** [[https://pingcap.com/blog-cn/tidb-4.0-pessimistic-lock/][TiDB 4.0 新特性前瞻（二）白话“悲观锁”]]        :mysql:tidb:lock:transaction:
+** [[https://redislabs.com/blog/streaming-analytics-with-probabilistic-data-structures/][Streaming Analytics with Probabilistic Data Structures]] :redis:datastruct:bloomfilter:hyperloglog:
+** [[https://mosermichael.github.io/jq-illustrated/dir/content.html][Illustrated jq tutorial]]                                 :jq:linux:example:
+** [[https://blog.cloudflare.com/keepalives-considered-harmful/][Keepalives considered harmful]]                :cloudflare:epoll:keeplalive:
+** [[https://lwn.net/Articles/815475/][Hacking the planet with Notcurses]]                        :curse:linux:cui:
+** [[https://brooker.co.za/blog/2020/03/22/rust][Two Years With Rust]]                                            :rust:lang:
+** [[https://devopsdirective.com/posts/2020/03/always-on-minikube/][Converting an Old MacBook Into an Always-On Personal Kubernetes Cluster]] :k8s:minikube:tutorial:
+** [[https://www.redhat.com/sysadmin/getting-started-samba][Getting started with Samba for interoperability]]                    :samba:
+** [[https://developers.redhat.com/blog/2020/03/24/red-hat-universal-base-images-for-docker-users/][Red Hat Universal Base Images for Docker users]]      :ubi:container:podman:
+** [[https://www.redhat.com/sysadmin/keepalived-basics][Setting up a Linux cluster with Keepalived: Basic configuration]] :network:linux:keepalived:
+** [[https://git.mysticmode.org/r/sorcia][sorcia: Self-hosted web frontend for git repositories written in Go]] :selfhost:git:
+** [[https://embeddedbits.org/how-is-the-linux-kernel-tested/][How is the Linux kernel tested?]]                        :test:kernel:linux:
+** [[https://www.redhat.com/sysadmin/quick-nmap-inventory][Running a quick NMAP scan to inventory my network]]           :nmap:network:
+** [[https://www.redhat.com/sysadmin/samba-windows-linux][Mounting and mapping shares between Windows and Linux with Samba]] :network:samba:linux:nfs:
+** [[https://www.redhat.com/en/blog/lets-monitor-edge-computing-networks-rhel][Let’s monitor edge computing networks with RHEL!]]    :linux:pcp:monitoring:
+** [[https://www.redhat.com/sysadmin/security-monitoring-tripwire][Security monitoring in Linux with Tripwire]]       :security:tripwire:audit:
+** [[http://man7.org/linux/man-pages/man7/lvmvdo.7.html][lvmvdo — EXPERIMENTAL LVM Virtual Data Optimizer support]] :vdo:storage:linux:lvm:
+** [[https://microsoft.github.io/ipe/][Integrity Policy Enforcement (IPE)]]        :integrity:code:microsoft:linux:
+** [[https://paper.seebug.org/1159/][WiFi 安全与攻击案例分析]]                   :wifi:security:network:protocol:
+** [[https://developers.redhat.com/blog/2020/04/22/getting-started-with-javascript-application-development/][Getting started with JavaScript application development]] :javascript:tutorial:
+** [[https://blog.cloudflare.com/deploying-gateway-using-a-raspberry-pi-dns-over-https-and-pi-hole/][Deploying Gateway using a Raspberry Pi, DNS over HTTPS and Pi-hole]] :doh:dns:
+** [[https://www.redhat.com/sysadmin/configuration-verification-ansible][Using Ansible to verify configurations]]  :ansible:linux:
+** [[https://zserge.com/posts/tmux/][TMUX FOR MERE MORTALS]]                                              :tmuux:
+** [[https://knowledgepill.it/posts/docker_swarm_compendium/][Docker swarm - setup and usage]]                              :docker:swarm:
+** [[https://binarydebt.wordpress.com/2018/10/14/intel-virtualisation-how-vt-x-kvm-and-qemu-work-together/][Intel Virtualisation: How VT-x, KVM and QEMU Work Together]] :virtualization:kvm:qemu:vmcs:

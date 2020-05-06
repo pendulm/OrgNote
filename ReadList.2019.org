@@ -50,7 +50,7 @@
 ** [[https://blog.logrocket.com/5-es2019-features-you-can-use-today/][5 ES2019 features you can use today]]                           :javascript:
 ** [[https://fedoramagazine.org/bond-wifi-and-ethernet-for-easier-networking-mobility/][Bond WiFi and Ethernet for easier networking mobility]]
 ** [[https://medium.com/justforfunc/why-are-there-nil-channels-in-go-9877cc0b2308][Why are there nil channels in Go?]]                         :pitfall:golang:
-** todo [[https://arxiv.org/pdf/1901.01863.pdf][Beyond socket options: making the Linux TCP stack truly extensible]] :kernel:
+** TODO todo [[https://arxiv.org/pdf/1901.01863.pdf][Beyond socket options: making the Linux TCP stack truly extensible]] :kernel:
 ** [[https://grafana.com/blog/2019/07/24/how-a-production-outage-was-caused-using-kubernetes-pod-priorities/][How a Production Outage Was Caused Using Kubernetes Pod Priorities]] :postmortem:
 ** [[https://www.redhat.com/en/blog/container-migration-podman-rhel][Container migration with Podman on RHEL]]
 ** [[https://www.redhat.com/en/blog/using-iptables-nft-hybrid-linux-firewall][Using iptables-nft: a hybrid Linux firewall]]
@@ -73,6 +73,36 @@
 ** [[https://mirailabs.io/blog/multiarch-docker-with-buildx/][Using multi-arch Docker images to support apps on any architecture]]
 ** [[https://www.redhat.com/en/blog/virtio-networking-first-series-finale-and-plans-2020][Virtio-networking: first series finale and plans for 2020]]
 ** [[https://blog.vmsplice.net/2019/11/video-and-slides-available-for-virtio.html][Video and slides available for "virtio-fs: A Shared File System for Virtual Machines"]] :virtualization:
+** [[https://paper.seebug.org/1082/][从 0 开始入门 Chrome Ext 安全（一） -- 了解一个 Chrome Ext]]
+** [[https://www.redhat.com/en/blog/whats-new-rhel-8-file-systems-and-storage][What’s new in RHEL 8 file systems and storage]]
+** [[https://paper.seebug.org/1093/][CVE-2019-18276 :Bash 5.0 Patch 11 - SUID Priv Drop Exploit]]
+** TODO [[What is bit rot, and how can I detect it on RHEL?%0Ahttps://www.redhat.com/en/blog/what-bit-rot-and-how-can-i-detect-it-rhel][What is bit rot, and how can I detect it on RHEL?]]        :filesystem:
+** [[https://github.blog/2019-11-21-debugging-network-stalls-on-kubernetes/][Debugging network stalls on Kubernetes]]                 :kernel:tcp:github:
+** [[https://blog.itswincer.com/posts/36b4c1ab/][高校生使用教育网的一点姿势]]                                          :ipv6:
+** [[https://starkandwayne.com/blog/building-docker-images-for-kubernetes-on-arm/][BUILDING DOCKER IMAGES FOR KUBERNETES RUNNING ON ARM]]
+** [[https://itnext.io/run-kubernetes-on-your-machine-7ee463af21a2][Run Kubernetes On Your Machine]]
+** [[https://stackoverflow.com/questions/1737095/how-do-i-disassemble-raw-16-bit-x86-machine-code][How do I disassemble raw 16-bit x86 machine code?]]                :objdump:
+** [[https://www.glamenv-septzen.net/en/view/6][Why BIOS loads MBR into 0x7C00 in x86 ?]]
+** [[https://www.redhat.com/en/blog/examining-container-performance-rhel-8-pcp-and-pdma-podman][Examining container performance on RHEL 8 with PCP and pmda-podman]]
+** [[https://www.redhat.com/en/blog/working-linux-containers-rhel-8-podman-image-builder-and-web-console][Working with Linux containers on RHEL 8 with Podman, image builder and web console]]
+** [[https://paper.seebug.org/1099/][认识 JavaAgent --获取目标进程已加载的所有类]]
+** [[https://jamesmunns.com/blog/fmt-unreasonably-expensive/][Formatting is Unreasonably Expensive for Embedded Rust]]
+** [[https://paper.seebug.org/1091/][Java 中 RMI、JNDI、LDAP、JRMP、JMX、JMS那些事儿（上）]]
+** [[https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/][The Software Architecture Chronicles]]
+** [[https://www.sanity.io/blog/why-we-wrote-yet-another-parser-compiler][Introducing Glush: a robust, human readable, top-down parser compiler]]
+** [[https://maplant.com/gc.html][Writing a Simple Garbage Collector in C]]
+** [[https://blog.mattbierner.com/10-years-stack-overflow-learnings/][What I've learned over 10 years on Stack Overflow]]
+** [[JVM Garbage Collectors Benchmarks Report 19.12%0Ahttps://ionutbalosin.com/2019/12/jvm-garbage-collectors-benchmarks-report-19-12/][JVM Garbage Collectors Benchmarks Report 19.12]] 
+** [[https://rv8.io/][RISC-V simulator for x86-64]]                                     :hardware:
+** [[https://developers.redhat.com/blog/2019/10/14/introducing-debuginfod-the-elfutils-debuginfo-server/][Introducing debuginfod, the elfutils debuginfo server]]
+** [[https://developers.redhat.com/blog/2019/12/17/deploying-debuginfod-servers-for-your-developers/][Deploying debuginfod servers for your developers]]
+** [[https://realpython.com/python-f-strings/][Python 3's f-Strings: An Improved String Formatting Syntax (Guide)]]
+** [[https://anee.me/reversing-a-real-world-249-bytes-backdoor-aadd876c0a32][Reversing a real-world 249 bytes backdoor!]]
+** [[https://opentitan.org/][OpenTitan is for silicon root of trust (RoT) chips]]              :hardware:
+** [[https://blog.athrunen.dev/learning-hardware-programming-as-a-software-engineer/][Learning hardware programming as a software engineer]]            :hardware:
+** [[https://www.raychase.net/5768][从物理时钟到逻辑时钟]]                                          :distribute:
+** [[https://pingcap.com/blog/autotikv-tikv-tuning-made-easy-by-machine-learning/][AutoTiKV: TiKV Tuning Made Easy by Machine Learning]]
+** [[https://blog.monsterxx03.com/2019/12/30/%25E8%2581%258A%25E8%2581%258A-aws-%25E7%259A%2584%25E8%25AE%25A1%25E8%25B4%25B9%25E6%25A8%25A1%25E5%25BC%258F/][聊聊 AWS 的计费模式]]
 ** TODO [[https://www.joshmcguigan.com/blog/shell-completions-pure-rust/][Shell Completions in Pure Rust]] 
 ** TODO [[https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d][Has the Python GIL been slain?]]
 ** TODO [[https://www.digitalocean.com/community/tutorial_series/an-introduction-to-selinux-on-centos-7][An Introduction to SELinux on CentOS 7]]
