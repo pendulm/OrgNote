@@ -1,0 +1,64 @@
+#+TITLE: Emacs vs Vim cheatsheet
+#+AUTHOR: pendulm
+#+EMAIL: lonependulm AT gmail dot com
+#+STARTUP: hidestars
+#+OPTIONS: toc:t
+
+* Config files
+
+| Key         | Emacs              | Vim            |
+|-------------+--------------------+----------------|
+| config dir  | ~/.emacs.d         | ~/.vimrc       |
+| default     | ~/.emacs           | ~/.vim         |
+| alternative | ~/.eamcs.d/init.el | ~/.vim.d/vimrc |
+
+
+* Edit
+
+** Completion
++-----------------+-------+--------+
+| Key             | Emacs |  Vim   |
++-----------------+-------+--------+
+| word completion |  M-/  | CTRL-P |
+|                 |       | CTRL-N |
++-----------------+-------+--------+
+|                 |       |        |
++-----------------+-------+--------+
+
+
+
+ 
+** Case Change
+
+| Key              | Emacs   | Vim       |
+|------------------+---------+-----------|
+| uppercase word   | M-u     | gUw       |
+| lowercase word   | M-l     | guw       |
+| capitalize word  | M-c     | NaN       |
+| uppercase region | C-x C-u | {Visual}U |
+| lowercase region | C-x C-l | {Visual}u |
+
+
+** Redo/Undo
+| Item | Emacs | Vim     |
+|------+-------+---------|
+| undo | C-/   | C-g C-/ |
+| redo | u     | CTRL-R  |
+
+
+* Marking
+
+| Key                     | Emacs        | Vim |
+|-------------------------+--------------+-----|
+| set mark here           | C-@ or C-SPC | ma  |
+| exchange point and mark | C-x C-x      |     |
+|                         |              |     |
+
+
+* Selection
+
+| Key                                 | Emacs   | Vim    |
+|-------------------------------------+---------+--------|
+| Rectangular / Visual mode blockwise | C-x SPC | CTRL-V |
+|                                     |         |        |
+
