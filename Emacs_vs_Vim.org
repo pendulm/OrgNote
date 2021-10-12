@@ -6,18 +6,33 @@
 
 * Config files
 
-| Key         | Emacs              | Vim            |
+| Item        | Emacs              | Vim            |
 |-------------+--------------------+----------------|
 | config dir  | ~/.emacs.d         | ~/.vimrc       |
 | default     | ~/.emacs           | ~/.vim         |
 | alternative | ~/.eamcs.d/init.el | ~/.vim.d/vimrc |
 
+* Start up
+
+| Item                   | Emacs     | Vim            |
+|------------------------+-----------+----------------|
+| start in terminal mode | emacs -nw | (default)      |
+| start in GUI mode      | (default) | gvim or vim -g |
+  
 
 * Edit
 
+** Files
+   
+| Item                 | Emacs             | Vim |
+|----------------------+-------------------+-----|
+| read unmodified file | M-x revert-buffer | :r! |
+|                      |                   |     |
+   
+
 ** Completion
 +-----------------+-------+--------+
-| Key             | Emacs |  Vim   |
+| Item            | Emacs |  Vim   |
 +-----------------+-------+--------+
 | word completion |  M-/  | CTRL-P |
 |                 |       | CTRL-N |
@@ -27,10 +42,11 @@
 
 
 
+
  
 ** Case Change
 
-| Key              | Emacs   | Vim       |
+| Item             | Emacs   | Vim       |
 |------------------+---------+-----------|
 | uppercase word   | M-u     | gUw       |
 | lowercase word   | M-l     | guw       |
@@ -46,19 +62,45 @@
 | redo | u     | CTRL-R  |
 
 
-* Marking
+* Jump
+** Basic
+  
+| Item             | Emacs | Vim |
+|------------------+-------+-----|
+| Jump to begining | M-<   | gg0 |
+| Jump to End      | M->   | G$  |
+|                  |       |     |
 
-| Key                     | Emacs        | Vim |
+
+** View
+| Item                 | Emacs | Vim        |
+|----------------------+-------+------------|
+| Cursor relative jump | C-l   | zt, zz, zb |
+
+
+
+** Marking
+
+| Item                    | Emacs        | Vim |
 |-------------------------+--------------+-----|
 | set mark here           | C-@ or C-SPC | ma  |
 | exchange point and mark | C-x C-x      |     |
-|                         |              |     |
+
 
 
 * Selection
 
-| Key                                 | Emacs   | Vim    |
+| Item                                | Emacs   | Vim    |
 |-------------------------------------+---------+--------|
 | Rectangular / Visual mode blockwise | C-x SPC | CTRL-V |
-|                                     |         |        |
+| Select all buffer                   | C-x h   | :%     |
+
+
+
+
+* Search
+
+| Item                          | Emacs | Vim    |
+|-------------------------------+-------+--------|
+| search & replace with confirm | M-%   | :s///c |
 

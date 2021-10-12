@@ -70,9 +70,9 @@
 | l       | update the marked files                                  |
 | k       | delete marked file lines                                 |
 | s       | toggle between alphabetical and time order               |
-| C-us    | refresh buffer using ls switches                         |
-| C-xC-q  | enter Wdired mode                                        |
-| C-cC-c  | exit Wdired mode                                         |
+| C-u s   | refresh buffer using ls switches                         |
+| C-x C-q | enter Wdired mode                                        |
+| C-c C-c | exit Wdired mode                                         |
 | +       | mkdir                                                    |
 
 ** variables
