@@ -18,64 +18,18 @@
 |------------------------+-----------+----------------|
 | start in terminal mode | emacs -nw | (default)      |
 | start in GUI mode      | (default) | gvim or vim -g |
-  
+
 
 * Edit
 
 ** Files
-   
-| Item                 | Emacs             | Vim |
-|----------------------+-------------------+-----|
-| read unmodified file | M-x revert-buffer | :r! |
-|                      |                   |     |
-   
 
-** Completion
-+-----------------+-------+--------+
-| Item            | Emacs |  Vim   |
-+-----------------+-------+--------+
-| word completion |  M-/  | CTRL-P |
-|                 |       | CTRL-N |
-+-----------------+-------+--------+
-|                 |       |        |
-+-----------------+-------+--------+
+| Item                 | Emacs              | Vim     |
+|----------------------+--------------------+---------|
+| read unmodified file | M-x revert-buffer  | :r!     |
+| set buffer read only | M-x read-only-mode | :set ro |
 
 
-
-
- 
-** Case Change
-
-| Item             | Emacs   | Vim       |
-|------------------+---------+-----------|
-| uppercase word   | M-u     | gUw       |
-| lowercase word   | M-l     | guw       |
-| capitalize word  | M-c     | NaN       |
-| uppercase region | C-x C-u | {Visual}U |
-| lowercase region | C-x C-l | {Visual}u |
-
-
-** Redo/Undo
-| Item | Emacs | Vim     |
-|------+-------+---------|
-| undo | C-/   | C-g C-/ |
-| redo | u     | CTRL-R  |
-
-
-* Jump
-** Basic
-  
-| Item             | Emacs | Vim |
-|------------------+-------+-----|
-| Jump to begining | M-<   | gg0 |
-| Jump to End      | M->   | G$  |
-|                  |       |     |
-
-
-** View
-| Item                 | Emacs | Vim        |
-|----------------------+-------+------------|
-| Cursor relative jump | C-l   | zt, zz, zb |
 
 
 
