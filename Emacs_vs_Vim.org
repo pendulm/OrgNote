@@ -2,6 +2,7 @@
 #+AUTHOR: pendulm
 #+EMAIL: lonependulm AT gmail dot com
 #+STARTUP: hidestars
+#+STARTUP: odd
 #+OPTIONS: toc:t
 
 * Config files
@@ -14,31 +15,81 @@
 
 * Start up
 
-| Item                   | Emacs     | Vim            |
-|------------------------+-----------+----------------|
-| start in terminal mode | emacs -nw | (default)      |
-| start in GUI mode      | (default) | gvim or vim -g |
+| Item                                                 | Emacs                        | Vim                            |
+|------------------------------------------------------+------------------------------+--------------------------------|
+| start in terminal mode                               | emacs -nw                    | (default)                      |
+| start in GUI mode                                    | (default)                    | gvim or vim -g                 |
+| start server                                         | systemctl --user start emacs | vim --servername xxx           |
+| start a new client (need compile with +clientserver) | emacsclient -c               | vim --servername xxx --reomote |
 
 
 * Edit
 
-** Files
-
-| Item                 | Emacs              | Vim     |
-|----------------------+--------------------+---------|
-| read unmodified file | M-x revert-buffer  | :r!     |
-| set buffer read only | M-x read-only-mode | :set ro |
+| Item      | Emacs         | Vim |
+|-----------+---------------+-----|
+| join line | C-u M-^[fn:1] | J   |
 
 
+*** Files
+
+ | Item                 | Emacs              | Vim     |
+ |----------------------+--------------------+---------|
+ | read unmodified file | M-x revert-buffer  | :r!     |
+ | set buffer read only | M-x read-only-mode | :set ro |
+
+*** Completion
+| Item            | Emacs | Vim             |
+|-----------------+-------+-----------------|
+| word completion | M-/   | CTRL-P & CTRL-N |
+
+
+*** Case Change
+
+| Item             | Emacs   | Vim       |
+|------------------+---------+-----------|
+| uppercase word   | M-u     | gUw       |
+| lowercase word   | M-l     | guw       |
+| capitalize word  | M-c     | NaN       |
+| uppercase region | C-x C-u | {Visual}U |
+| lowercase region | C-x C-l | {Visual}u |
+
+
+*** Redo/Undo
+| Item | Emacs | Vim     |
+|------+-------+---------|
+| undo | C-/   | C-g C-/ |
+| redo | u     | CTRL-R  |
+
+
+*** Marking
+
+ | Item                    | Emacs        | Vim |
+ |-------------------------+--------------+-----|
+ | set mark here           | C-@ or C-SPC | ma  |
+ | exchange point and mark | C-x C-x      |     |
+
+
+* Jump
+*** Basic
+
+ | Item             | Emacs | Vim |
+ |------------------+-------+-----|
+ | Jump to begining | M-<   | gg0 |
+ | Jump to End      | M->   | G$  |
 
 
 
-** Marking
+*** View
+ | Item                 | Emacs | Vim        |
+ |----------------------+-------+------------|
+ | Cursor relative jump | C-l   | zt, zz, zb |
 
-| Item                    | Emacs        | Vim |
-|-------------------------+--------------+-----|
-| set mark here           | C-@ or C-SPC | ma  |
-| exchange point and mark | C-x C-x      |     |
+*** Marking
+
+ | Item                    | Emacs        | Vim |
+ |-------------------------+--------------+-----|
+ | set mark here           | C-@ or C-SPC | ma  |
+ | exchange point and mark | C-x C-x      |     |
 
 
 
@@ -58,3 +109,6 @@
 |-------------------------------+-------+--------|
 | search & replace with confirm | M-%   | :s///c |
 
+* Footnotes
+
+[fn:1] [[https://emacsredux.com/blog/2013/05/30/joining-lines/][Joining lines]]
