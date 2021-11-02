@@ -31,4 +31,4 @@
 
 
 *** install
-- docker run -it --network=had用完删掉，切回正式的topic再追数据的oop --name h-node3 -h h-node3 -e "container=docker" --privileged=true -d --security-opt seccomp:unconfined --cap-add=SYS_ADMIN -v /sys/fs/cgroup:/sys/fs/cgroup:ro hadoop-env bash -c "/usr/sbin/init"
+- docker run -it --network=hadoop --name h-node3 -h h-node3 -e "container=docker" --privileged=true -d --security-opt seccomp:unconfined --cap-add=SYS_ADMIN -v /sys/fs/cgroup:/sys/fs/cgroup:ro hadoop-env bash -c "/usr/sbin/init"

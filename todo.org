@@ -131,3 +131,10 @@
      :PROPERTIES:
      :url:      https://www.coursera.org/learn/model-thinking
      :END:
+* Keep Note
+** TODO 远程使用emacs如何copy clipboard，例如在org mode中copy link
+   - [[https://github.com/jedisct1/piknik][piknik: Copy/paste anything over the network]]
+   - [[https://github.com/bugaevc/wl-clipboard/][wl-clipboard: Command-line copy/paste utilities for Wayland]]
+** TODO 研究字体
+   - [[https://github.com/gabrielelana/awesome-terminal-fonts][gabrielelana/awesome-terminal-fonts]]
+   - [[https://www.nerdfonts.com/][Nerd Font]]

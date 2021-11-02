@@ -3,6 +3,13 @@
 #+LANGUAGE: en
 #+OPTIONS: ^:{} toc:nil H:5 num:0
 
+* Font
+| Key     | Function |
+|---------+----------|
+| C-x C-+ | enlarge font |
+
+
+
 * Dired
 ** commands
 | Key     | Function                                                 |
@@ -80,6 +87,26 @@
 |-------------------------+---------------------------------|
 | dired-recursive-deletes | control delete non-empty dirs   |
 | dired-isearch-filenames | limit C-s only search file name |
+
+
+* Info
+| Key | Function                  |
+|-----+---------------------------|
+| t   | move to Top node          |
+| l   | jump last node in history |
+| m   | menu mode                 |
+| r   | forward node in history   |
+
+
+* Org mode
+** table
+| Key          | Function                               |
+|--------------+----------------------------------------|
+| M-S-LEFT     | Kill the current column                |
+| M-S-RIGHT    | Insert a new column at point position  |
+| M-S-DOWN     | Insert a new row above the current row |
+| C-u M-S-DOWN | Insert a new row after current row     |
+
 
 
 

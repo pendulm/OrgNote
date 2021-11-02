@@ -1,0 +1,49 @@
+#+TITLE: Unicode Card
+
+
+| Function | Command |
+|----------+---------|
+| uni      |         |
+|          |         |
+|          |         |
+
+** find unicode info
+#+NAME: find unicode info
+#+BEGIN_SRC shell
+$ uni identify €
+     cpoint  dec    utf8        html       name (cat)
+'€'  U+20AC  8364   e2 82 ac    &euro;     EURO SIGN (Currency_Symbol)
+#+END_SRC
+
+
+** find unicode by codepoint
+#+NAME: find unicode by codepoint
+#+BEGIN_SRC shell
+$ uni print U+2042
+     cpoint  dec    utf8        html       name (cat)
+'⁂'  U+2042  8258   e2 81 82    &#x2042;   ASTERISM (Other_Punctuation)
+#+END_SRC
+
+** qury font information [fn:1]
+#+NAME: query font information
+#+BEGIN_SRC shell
+$ fc-query /usr/share/fonts/google-noto-cjk/NotoSansCJK-Regular.ttc
+#+END_SRC
+
+** List fonts that could render (contain) a glyph
+#+NAME: List fonts that could render (contain) a glyph
+#+BEGIN_SRC shell
+$ fc-list :charset=1f63f | less      # all installed fonts that have 1f63f 😿
+#+END_SRC
+
+** List Unicode character ranges for all supported code points (glyphs?):
+#+NAME: List Unicode character ranges for all supported code points (glyphs?)
+#+BEGIN_SRC shell
+$ fc-query --format='%{charset}\n' /usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf | less
+#+END_SRC
+
+
+* Footnotes
+
+[fn:1] https://unix.stackexchange.com/a/595816
+https://github.com/sdushantha/fontpreview

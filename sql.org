@@ -1,0 +1,15 @@
+#+TITLE: SQL cheetsheet
+
+
+* PostgreSQL
+
+| Function                | command                                                                                                   |
+|-------------------------+-----------------------------------------------------------------------------------------------------------|
+| connect server          | psql -U miniflux -d miniflu                                                                               |
+| show table              | \d                                                                                                        |
+| show table schema[fn:1] | SELECT * FROM information_schema.columns WHERE table_schema = 'miniflux' AND TABLE_NAME = 'integrations'; |
+
+
+* Footnotes
+
+[fn:1] [[https://kb.objectrocket.com/postgresql/connect-to-postgresql-and-show-the-table-schema-967][Connect to PostgreSQL and Show the Table Schema]]

@@ -1,0 +1,62 @@
+#+TITLE: Learning English
+
+
+重新学英语的目的：
+- 开阔眼界，英语内容依然是世界的主流文化载体
+- 找一个不那么难学的目标去训练一种学习方法
+- 总结当初自己没有学好的原因，为以后教女儿学英语提供建议
+
+学习语言无非是听说读写，我对英语技能的需求当前就是交流，更侧重与理解对方说的话，而自己能表达意思就可以。
+所以最关键的其实是听力，但我认为听力和阅读能力无法割裂
+- 听不懂
+  理解的句子没有听懂，连读、固定口语发音
+- 也可能是这句话本身也看不懂
+  可能由于陌生词汇、短语或者不熟悉的语法
+
+当能够听懂或读懂英文表达后 => 英语场景 + 足够的时间 = 流利的口语。
+这对我当前并不是最重要的，我去过美国，在外国你可以有很多方法表达你的意思让别人理解。
+写作那就是另一个事情，从实用的角度优先级是最低的
+
+我需要根据自己当前的英语水位制定学习计划，即 *读懂* + *听懂*
+
+首先要知道自己的词汇量，知乎上有一个相关[[https://www.zhihu.com/question/378366898][问答]]，
+
+- [X] 词汇量测试
+  - [X] [[http://testyourvocab.com/][Test your vocab]]
+结果：[[http://testyourvocab.com/result?user=17250218][7,050 words]]
+
+
+
+
+* 词汇
+
+** 背单词
+当前使用的是 Anki 背单词，使用 GRE 卡片组，但存在几点问题：
+1. GRE 词汇有很多是生僻词，日常很少用到，用不到的话背的效率较低
+2. 这个卡片组只有标准的卡片类型，没有反向卡和完形填空类型，导致背单词效果不好，容易区分不清楚近似词以及不会拼写
+3. 缺乏例句，没有具体的使用场景，干背效果不好
+
+我需要更好的卡片组或者自制卡片组，若干年前「文曲星」上背词的效果比现在要好
+
+** 词典
+skywind 的《[[https://zhuanlan.zhihu.com/p/31493883][简明英汉必应版]]》看起来比较全，更重要的是了解他制作词典的工具和方法以及选词思路
+
+
+* 语法
+语法方面我暂时没有太多总结，先从「[[https://www.yingyutu.com/][英语兔]]」系列看起
+
+* 听力
+
+听Podcast
+
++ 技术相关
+  - [[https://linuxunplugged.com/][Linux unplug]]
+  - [[https://kubernetespodcast.com/][kubernates podcast]]
+  - [[https://changelog.com/podcast][changelog]]
+  - [[https://www.redhat.com/en/command-line-heroes][command line HERO]]
++ 实时政治
+  - [[https://whatthefuckjusthappenedtoday.com/podcasts/][WTF Just Happened Today]]
+
+有些 podcast 没有 transcript 那么需要自己制作，这里需要语音转文字的功能。目前正在调研中，相关项目：
+- coqui-ai/STT
+- mozilla/DeepSpeech
