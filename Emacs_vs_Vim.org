@@ -1,7 +1,6 @@
 #+TITLE: Emacs vs Vim cheatsheet
 #+AUTHOR: pendulm
 #+EMAIL: lonependulm AT gmail dot com
-#+STARTUP: hidestars
 #+STARTUP: odd
 #+OPTIONS: toc:t
 
@@ -23,27 +22,23 @@
 | start a new client (need compile with +clientserver) | emacsclient -c               | vim --servername xxx --reomote |
 | start without any confiuration                       | emacs -q                     | vim --clearn Or vim -u NONE    |
 
-
 * Edit
 
 | Item      | Emacs         | Vim |
 |-----------+---------------+-----|
 | join line | C-u M-^[fn:1] | J   |
 
-
 *** Files
 
- | Item                 | Emacs              | Vim                  |
- |----------------------+--------------------+----------------------|
- | read unmodified file | M-x revert-buffer  | :r!                  |
- | set buffer read only | M-x read-only-mode | :set ro nomodifiable |
-
+   | Item                 | Emacs                                             | Vim                  |
+   |----------------------+---------------------------------------------------+----------------------|
+   | read unmodified file | M-x revert-buffer                                 | :r!                  |
+   | set buffer read only | M-x read-only-mode                                | :set ro nomodifiable |
 
 *** Completion
 | Item            | Emacs | Vim             |
 |-----------------+-------+-----------------|
 | word completion | M-/   | CTRL-P & CTRL-N |
-
 
 *** Case Change
 
@@ -55,13 +50,26 @@
 | uppercase region | C-x C-u | {Visual}U |
 | lowercase region | C-x C-l | {Visual}u |
 
-
 *** Redo/Undo
 | Item | Emacs | Vim     |
 |------+-------+---------|
 | undo | C-/   | C-g C-/ |
 | redo | u     | CTRL-R  |
 
+Discard Undo Buffer
+
+- Emacs[fn:2] ::
+
+  : M-x buffer-disable-undo RET
+  : M-x buffer-enable-undo RET
+
+- Vim[fn:3] ::
+
+  : :let old_undolevels = &undolevels
+  : :set undolevels=-1
+  : :exe "normal a \<BS>\<Esc>"
+  : :let &undolevels = old_undolevels
+  : :unlet old_undolevels
 
 *** Marking
 
@@ -69,7 +77,6 @@
  |-------------------------+--------------+-----|
  | set mark here           | C-@ or C-SPC | ma  |
  | exchange point and mark | C-x C-x      |     |
-
 
 * Jump
 *** Basic
@@ -94,16 +101,12 @@
  | exchange point and mark | C-x C-x      |     |
 
 
-
 * Selection
 
 | Item                                | Emacs   | Vim    |
 |-------------------------------------+---------+--------|
 | Rectangular / Visual mode blockwise | C-x SPC | CTRL-V |
 | Select all buffer                   | C-x h   | :%     |
-
-
-
 
 * Search
 
@@ -116,7 +119,10 @@
 |-----------------------------+--------------------+-----|
 | show character under cursor | C-x = or C-u C-x = | ga  |
 
-
 * Footnotes
 
 [fn:1] [[https://emacsredux.com/blog/2013/05/30/joining-lines/][Joining lines]]
+
+[fn:2] https://emacs.stackexchange.com/questions/31686/how-to-reset-undo-history
+
+[fn:3] https://vimhelp.org/undo.txt.html#clear-undo
